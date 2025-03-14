@@ -109,3 +109,17 @@
 [14Mar2025 00:29:54.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
 [14Mar2025 00:29:54.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
 [14Mar2025 00:29:54.399] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[14Mar2025 00:39:27.342] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@18da4f1e[id=<null>,name=Deiarcoiris,properties={},legacy=false] (/127.147.66.255:39025): Took too long to log in
+[14Mar2025 00:39:27.345] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18da4f1e[id=<null>,name=Deiarcoiris,properties={},legacy=false] (/127.147.66.255:39025) lost connection: Took too long to log in
+[14Mar2025 00:39:27.388] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Mar2025 00:40:15.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deiarcoiris[/127.147.66.255:33997] logged in with entity id 1417 at (43.71773587755911, 77.0, 87.30000001192093)
+[14Mar2025 00:40:15.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris joined the game
+[14Mar2025 00:40:16.599] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deiarcoiris (18)
+[14Mar2025 00:40:16.600] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
+[14Mar2025 00:40:43.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[14Mar2025 00:40:44.293] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[14Mar2025 00:40:44.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf) successfully connected to voice chat
+[14Mar2025 00:40:52.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the time to 1000]
+[14Mar2025 00:40:57.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
+[14Mar2025 00:40:57.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[14Mar2025 00:40:57.497] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
