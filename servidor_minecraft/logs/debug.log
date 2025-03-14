@@ -1501,3 +1501,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Mar2025 00:40:57.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
 [14Mar2025 00:40:57.497] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Deiarcoiris
 [14Mar2025 00:40:57.497] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[14Mar2025 00:42:30.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 00:42:30.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 00:47:30.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 00:47:30.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
