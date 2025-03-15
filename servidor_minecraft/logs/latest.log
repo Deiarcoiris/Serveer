@@ -1,346 +1,130 @@
-[15Mar2025 01:25:46.713] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[15Mar2025 01:25:46.722] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[15Mar2025 01:25:47.131] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[15Mar2025 01:25:47.203] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Serveer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[15Mar2025 01:25:47.624] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[15Mar2025 01:25:47.629] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Mar2025 01:25:47.632] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Mar2025 01:25:47.634] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Mar2025 01:25:47.938] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[15Mar2025 01:25:47.940] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[15Mar2025 01:25:51.350] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15Mar2025 01:25:51.426] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[15Mar2025 01:25:52.593] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15Mar2025 01:26:03.791] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
-[15Mar2025 01:26:03.823] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[15Mar2025 01:26:03.824] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[15Mar2025 01:26:04.083] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
-[15Mar2025 01:26:04.276] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@3596c09d has been registered twice for the same name treechop:chop_wood.
-[15Mar2025 01:26:04.839] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[15Mar2025 01:26:04.929] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[15Mar2025 01:26:05.044] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[15Mar2025 01:26:05.064] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[15Mar2025 01:26:05.065] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[15Mar2025 01:26:05.068] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[15Mar2025 01:26:05.431] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[15Mar2025 01:26:05.432] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[15Mar2025 01:26:05.436] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[15Mar2025 01:26:05.437] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[15Mar2025 01:26:05.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[15Mar2025 01:26:06.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.28 Target: null
-[15Mar2025 01:26:06.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
-[15Mar2025 01:26:07.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.4+mod Target: null
-[15Mar2025 01:26:07.163] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[15Mar2025 01:26:07.346] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[15Mar2025 01:26:07.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[15Mar2025 01:26:07.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
-[15Mar2025 01:26:09.210] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15Mar2025 01:26:09.489] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: sophisticatedbackpacks:backpack Expected: 1004 Got: 1026
-[15Mar2025 01:26:09.490] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: sophisticatedbackpacks:copper_backpack Expected: 1005 Got: 1027
-[15Mar2025 01:26:09.491] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: sophisticatedbackpacks:iron_backpack Expected: 1006 Got: 1028
-[15Mar2025 01:26:09.491] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: sophisticatedbackpacks:gold_backpack Expected: 1007 Got: 1029
-[15Mar2025 01:26:09.491] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: sophisticatedbackpacks:diamond_backpack Expected: 1008 Got: 1030
-[15Mar2025 01:26:09.491] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: sophisticatedbackpacks:netherite_backpack Expected: 1009 Got: 1031
-[15Mar2025 01:26:09.494] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:backpack Expected: 1255 Got: 1284
-[15Mar2025 01:26:09.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:copper_backpack Expected: 1256 Got: 1285
-[15Mar2025 01:26:09.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:iron_backpack Expected: 1257 Got: 1286
-[15Mar2025 01:26:09.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:gold_backpack Expected: 1258 Got: 1287
-[15Mar2025 01:26:09.497] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:diamond_backpack Expected: 1259 Got: 1288
-[15Mar2025 01:26:09.497] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:netherite_backpack Expected: 1260 Got: 1289
-[15Mar2025 01:26:09.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:pickup_upgrade Expected: 1261 Got: 1290
-[15Mar2025 01:26:09.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:advanced_pickup_upgrade Expected: 1262 Got: 1291
-[15Mar2025 01:26:09.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:filter_upgrade Expected: 1263 Got: 1292
-[15Mar2025 01:26:09.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:advanced_filter_upgrade Expected: 1264 Got: 1293
-[15Mar2025 01:26:09.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:magnet_upgrade Expected: 1265 Got: 1294
-[15Mar2025 01:26:09.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:advanced_magnet_upgrade Expected: 1266 Got: 1295
-[15Mar2025 01:26:09.498] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:feeding_upgrade Expected: 1267 Got: 1296
-[15Mar2025 01:26:09.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:advanced_feeding_upgrade Expected: 1268 Got: 1297
-[15Mar2025 01:26:09.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:compacting_upgrade Expected: 1269 Got: 1298
-[15Mar2025 01:26:09.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:advanced_compacting_upgrade Expected: 1270 Got: 1299
-[15Mar2025 01:26:09.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:void_upgrade Expected: 1271 Got: 1300
-[15Mar2025 01:26:09.500] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:advanced_void_upgrade Expected: 1272 Got: 1301
-[15Mar2025 01:26:09.500] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:restock_upgrade Expected: 1273 Got: 1302
-[15Mar2025 01:26:09.500] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:advanced_restock_upgrade Expected: 1274 Got: 1303
-[15Mar2025 01:26:09.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:deposit_upgrade Expected: 1275 Got: 1304
-[15Mar2025 01:26:09.503] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:advanced_deposit_upgrade Expected: 1276 Got: 1305
-[15Mar2025 01:26:09.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:refill_upgrade Expected: 1277 Got: 1306
-[15Mar2025 01:26:09.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:advanced_refill_upgrade Expected: 1278 Got: 1307
-[15Mar2025 01:26:09.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:inception_upgrade Expected: 1279 Got: 1308
-[15Mar2025 01:26:09.507] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:everlasting_upgrade Expected: 1280 Got: 1309
-[15Mar2025 01:26:09.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:smelting_upgrade Expected: 1281 Got: 1310
-[15Mar2025 01:26:09.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:auto_smelting_upgrade Expected: 1282 Got: 1311
-[15Mar2025 01:26:09.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:smoking_upgrade Expected: 1283 Got: 1312
-[15Mar2025 01:26:09.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:auto_smoking_upgrade Expected: 1284 Got: 1313
-[15Mar2025 01:26:09.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:blasting_upgrade Expected: 1285 Got: 1314
-[15Mar2025 01:26:09.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:auto_blasting_upgrade Expected: 1286 Got: 1315
-[15Mar2025 01:26:09.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:crafting_upgrade Expected: 1287 Got: 1316
-[15Mar2025 01:26:09.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:stonecutter_upgrade Expected: 1288 Got: 1317
-[15Mar2025 01:26:09.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:stack_upgrade_starter_tier Expected: 1289 Got: 1318
-[15Mar2025 01:26:09.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:stack_upgrade_tier_1 Expected: 1290 Got: 1319
-[15Mar2025 01:26:09.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:stack_upgrade_tier_2 Expected: 1291 Got: 1320
-[15Mar2025 01:26:09.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:stack_upgrade_tier_3 Expected: 1292 Got: 1321
-[15Mar2025 01:26:09.509] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:stack_upgrade_tier_4 Expected: 1293 Got: 1322
-[15Mar2025 01:26:09.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:jukebox_upgrade Expected: 1294 Got: 1323
-[15Mar2025 01:26:09.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:tool_swapper_upgrade Expected: 1295 Got: 1324
-[15Mar2025 01:26:09.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:advanced_tool_swapper_upgrade Expected: 1296 Got: 1325
-[15Mar2025 01:26:09.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:tank_upgrade Expected: 1297 Got: 1326
-[15Mar2025 01:26:09.511] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:battery_upgrade Expected: 1298 Got: 1327
-[15Mar2025 01:26:09.511] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:pump_upgrade Expected: 1299 Got: 1328
-[15Mar2025 01:26:09.512] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:advanced_pump_upgrade Expected: 1300 Got: 1329
-[15Mar2025 01:26:09.512] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:xp_pump_upgrade Expected: 1301 Got: 1330
-[15Mar2025 01:26:09.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:anvil_upgrade Expected: 1302 Got: 1331
-[15Mar2025 01:26:09.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: sophisticatedbackpacks:upgrade_base Expected: 1303 Got: 1332
-[15Mar2025 01:26:09.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: sophisticatedbackpacks:everlasting_backpack_item Expected: 124 Got: 125
-[15Mar2025 01:26:10.631] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serveer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
-[15Mar2025 01:26:10.633] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serveer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
-[15Mar2025 01:26:14.582] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[15Mar2025 01:26:14.822] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1336 advancements
-[15Mar2025 01:26:15.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[15Mar2025 01:26:15.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[15Mar2025 01:26:15.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[15Mar2025 01:26:15.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[15Mar2025 01:26:15.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[15Mar2025 01:26:15.936] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[15Mar2025 01:26:16.075] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15Mar2025 01:26:16.077] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[15Mar2025 01:26:16.077] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15Mar2025 01:26:16.078] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[15Mar2025 01:26:16.100] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/sophisticatedbackpacks-server.toml is not correct. Correcting
-[15Mar2025 01:26:16.102] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.103] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.disallowedItems was corrected from null to its default, []. 
-[15Mar2025 01:26:16.104] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.containerItemsDisallowed was corrected from null to its default, false. 
-[15Mar2025 01:26:16.109] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.noInteractionBlocks was corrected from null to its default, []. 
-[15Mar2025 01:26:16.111] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.noConnectionBlocks was corrected from null to its default, []. 
-[15Mar2025 01:26:16.113] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.leatherBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.117] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.leatherBackpack.inventorySlotCount was corrected from null to its default, 27. 
-[15Mar2025 01:26:16.117] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.leatherBackpack.upgradeSlotCount was corrected from null to its default, 1. 
-[15Mar2025 01:26:16.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.copperBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.125] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.copperBackpack.inventorySlotCount was corrected from null to its default, 45. 
-[15Mar2025 01:26:16.130] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.copperBackpack.upgradeSlotCount was corrected from null to its default, 1. 
-[15Mar2025 01:26:16.130] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ironBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.131] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ironBackpack.inventorySlotCount was corrected from null to its default, 54. 
-[15Mar2025 01:26:16.132] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ironBackpack.upgradeSlotCount was corrected from null to its default, 2. 
-[15Mar2025 01:26:16.132] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.goldBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.133] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.goldBackpack.inventorySlotCount was corrected from null to its default, 81. 
-[15Mar2025 01:26:16.137] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.goldBackpack.upgradeSlotCount was corrected from null to its default, 3. 
-[15Mar2025 01:26:16.138] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.diamondBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.139] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.diamondBackpack.inventorySlotCount was corrected from null to its default, 108. 
-[15Mar2025 01:26:16.144] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.diamondBackpack.upgradeSlotCount was corrected from null to its default, 5. 
-[15Mar2025 01:26:16.148] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.netheriteBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.150] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.netheriteBackpack.inventorySlotCount was corrected from null to its default, 120. 
-[15Mar2025 01:26:16.151] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.netheriteBackpack.upgradeSlotCount was corrected from null to its default, 7. 
-[15Mar2025 01:26:16.151] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.compactingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.154] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.compactingUpgrade.filterSlots was corrected from null to its default, 9. 
-[15Mar2025 01:26:16.154] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.compactingUpgrade.slotsInRow was corrected from null to its default, 3. 
-[15Mar2025 01:26:16.155] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedCompactingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.155] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedCompactingUpgrade.filterSlots was corrected from null to its default, 16. 
-[15Mar2025 01:26:16.161] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedCompactingUpgrade.slotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.163] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.depositUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.167] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.depositUpgrade.filterSlots was corrected from null to its default, 9. 
-[15Mar2025 01:26:16.168] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.depositUpgrade.slotsInRow was corrected from null to its default, 3. 
-[15Mar2025 01:26:16.170] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedDepositUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.175] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedDepositUpgrade.filterSlots was corrected from null to its default, 16. 
-[15Mar2025 01:26:16.176] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedDepositUpgrade.slotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.177] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.feedingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.177] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.feedingUpgrade.filterSlots was corrected from null to its default, 9. 
-[15Mar2025 01:26:16.178] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.feedingUpgrade.slotsInRow was corrected from null to its default, 3. 
-[15Mar2025 01:26:16.179] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedFeedingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.181] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedFeedingUpgrade.filterSlots was corrected from null to its default, 16. 
-[15Mar2025 01:26:16.185] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedFeedingUpgrade.slotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.186] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.filterUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.186] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.filterUpgrade.filterSlots was corrected from null to its default, 9. 
-[15Mar2025 01:26:16.189] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.filterUpgrade.slotsInRow was corrected from null to its default, 3. 
-[15Mar2025 01:26:16.190] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedFilterUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.190] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedFilterUpgrade.filterSlots was corrected from null to its default, 16. 
-[15Mar2025 01:26:16.191] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedFilterUpgrade.slotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.193] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.magnetUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.193] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.magnetUpgrade.filterSlots was corrected from null to its default, 9. 
-[15Mar2025 01:26:16.194] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.magnetUpgrade.slotsInRow was corrected from null to its default, 3. 
-[15Mar2025 01:26:16.195] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.magnetUpgrade.magnetRange was corrected from null to its default, 3. 
-[15Mar2025 01:26:16.197] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedMagnetUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.199] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedMagnetUpgrade.filterSlots was corrected from null to its default, 16. 
-[15Mar2025 01:26:16.201] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedMagnetUpgrade.slotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.202] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedMagnetUpgrade.magnetRange was corrected from null to its default, 5. 
-[15Mar2025 01:26:16.204] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pickupUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.205] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pickupUpgrade.filterSlots was corrected from null to its default, 9. 
-[15Mar2025 01:26:16.207] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pickupUpgrade.slotsInRow was corrected from null to its default, 3. 
-[15Mar2025 01:26:16.208] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedPickupUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.208] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedPickupUpgrade.filterSlots was corrected from null to its default, 16. 
-[15Mar2025 01:26:16.210] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedPickupUpgrade.slotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.211] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.refillUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.212] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.refillUpgrade.filterSlots was corrected from null to its default, 6. 
-[15Mar2025 01:26:16.212] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.refillUpgrade.slotsInRow was corrected from null to its default, 3. 
-[15Mar2025 01:26:16.212] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedRefillUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.212] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedRefillUpgrade.filterSlots was corrected from null to its default, 12. 
-[15Mar2025 01:26:16.213] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedRefillUpgrade.slotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.213] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.restockUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.216] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.restockUpgrade.filterSlots was corrected from null to its default, 9. 
-[15Mar2025 01:26:16.217] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.restockUpgrade.slotsInRow was corrected from null to its default, 3. 
-[15Mar2025 01:26:16.217] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedRestockUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.218] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedRestockUpgrade.filterSlots was corrected from null to its default, 16. 
-[15Mar2025 01:26:16.220] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedRestockUpgrade.slotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.222] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.voidUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.224] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.voidUpgrade.filterSlots was corrected from null to its default, 9. 
-[15Mar2025 01:26:16.226] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.voidUpgrade.slotsInRow was corrected from null to its default, 3. 
-[15Mar2025 01:26:16.227] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.voidUpgrade.voidAnythingEnabled was corrected from null to its default, true. 
-[15Mar2025 01:26:16.230] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedVoidUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedVoidUpgrade.filterSlots was corrected from null to its default, 16. 
-[15Mar2025 01:26:16.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedVoidUpgrade.slotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.233] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advancedVoidUpgrade.voidAnythingEnabled was corrected from null to its default, true. 
-[15Mar2025 01:26:16.234] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.stackUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.237] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.stackUpgrade.nonStackableItems was corrected from null to its default, [minecraft:bundle, minecraft:shulker_box, minecraft:white_shulker_box, minecraft:orange_shulker_box, minecraft:magenta_shulker_box, minecraft:light_blue_shulker_box, minecraft:yellow_shulker_box, minecraft:lime_shulker_box, minecraft:pink_shulker_box, minecraft:gray_shulker_box, minecraft:light_gray_shulker_box, minecraft:cyan_shulker_box, minecraft:purple_shulker_box, minecraft:blue_shulker_box, minecraft:brown_shulker_box, minecraft:green_shulker_box, minecraft:red_shulker_box, minecraft:black_shulker_box]. 
-[15Mar2025 01:26:16.239] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.smeltingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.240] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.smeltingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.smeltingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.smokingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.smokingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.smokingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.242] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.blastingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.242] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.blastingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.245] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.blastingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.248] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.249] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.249] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.249] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade.inputFilterSlots was corrected from null to its default, 8. 
-[15Mar2025 01:26:16.250] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade.inputFilterSlotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.250] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade.fuelFilterSlots was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.252] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmeltingUpgrade.fuelFilterSlotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.253] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.253] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.254] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.255] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade.inputFilterSlots was corrected from null to its default, 8. 
-[15Mar2025 01:26:16.256] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade.inputFilterSlotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.258] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade.fuelFilterSlots was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.258] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoSmokingUpgrade.fuelFilterSlotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.261] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.262] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.262] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.262] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade.inputFilterSlots was corrected from null to its default, 8. 
-[15Mar2025 01:26:16.263] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade.inputFilterSlotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.264] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade.fuelFilterSlots was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.264] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.autoBlastingUpgrade.fuelFilterSlotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.265] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.inceptionUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.266] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.inceptionUpgrade.upgradesUseInventoriesOfBackpacksInBackpack was corrected from null to its default, true. 
-[15Mar2025 01:26:16.269] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.inceptionUpgrade.upgradesInContainedBackpacksAreFunctional was corrected from null to its default, true. 
-[15Mar2025 01:26:16.270] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.toolSwapperUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.271] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.toolSwapperUpgrade.filterSlots was corrected from null to its default, 8. 
-[15Mar2025 01:26:16.271] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.toolSwapperUpgrade.slotsInRow was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.273] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tankUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.274] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tankUpgrade.capacityPerSlotRow was corrected from null to its default, 4000. 
-[15Mar2025 01:26:16.274] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tankUpgrade.stackMultiplierRatio was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.275] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tankUpgrade.autoFillDrainContainerCooldown was corrected from null to its default, 20. 
-[15Mar2025 01:26:16.276] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tankUpgrade.maxInputOutput was corrected from null to its default, 20. 
-[15Mar2025 01:26:16.278] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tankUpgrade.energyPerSlotRow was corrected from null to its default, 10000. 
-[15Mar2025 01:26:16.279] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pumpUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.279] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pumpUpgrade.filterSlots was corrected from null to its default, 4. 
-[15Mar2025 01:26:16.279] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pumpUpgrade.maxInputOutput was corrected from null to its default, 20. 
-[15Mar2025 01:26:16.279] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.pumpUpgrade.stackMultiplierRatio was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.281] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.xpPumpUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.281] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.xpPumpUpgrade.mendingOn was corrected from null to its default, true. 
-[15Mar2025 01:26:16.283] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.xpPumpUpgrade.maxXpPointsPerMending was corrected from null to its default, 5. 
-[15Mar2025 01:26:16.284] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.284] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.chance was corrected from null to its default, 0.01. 
-[15Mar2025 01:26:16.285] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.addLoot was corrected from null to its default, true. 
-[15Mar2025 01:26:16.285] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.buffWithPotionEffects was corrected from null to its default, true. 
-[15Mar2025 01:26:16.285] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.buffHealth was corrected from null to its default, true. 
-[15Mar2025 01:26:16.286] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.equipWithArmor was corrected from null to its default, true. 
-[15Mar2025 01:26:16.287] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.entityLootTableList was corrected from null to its default, [minecraft:creeper|minecraft:chests/desert_pyramid, minecraft:drowned|minecraft:chests/shipwreck_treasure, minecraft:enderman|minecraft:chests/end_city_treasure, minecraft:evoker|minecraft:chests/woodland_mansion, minecraft:husk|minecraft:chests/desert_pyramid, minecraft:piglin|minecraft:chests/bastion_bridge, minecraft:piglin_brute|minecraft:chests/bastion_treasure, minecraft:pillager|minecraft:chests/pillager_outpost, minecraft:skeleton|minecraft:chests/simple_dungeon, minecraft:stray|minecraft:chests/igloo_chest, minecraft:vex|minecraft:chests/woodland_mansion, minecraft:vindicator|minecraft:chests/woodland_mansion, minecraft:witch|minecraft:chests/buried_treasure, minecraft:wither_skeleton|minecraft:chests/nether_bridge, minecraft:zombie|minecraft:chests/simple_dungeon, minecraft:zombie_villager|minecraft:chests/village/village_armorer, minecraft:zombified_piglin|minecraft:chests/bastion_other]. 
-[15Mar2025 01:26:16.287] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.discBlockList was corrected from null to its default, [botania:record_gaia_1, botania:record_gaia_2]. 
-[15Mar2025 01:26:16.288] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.playJukebox was corrected from null to its default, true. 
-[15Mar2025 01:26:16.288] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.dropToFakePlayers was corrected from null to its default, false. 
-[15Mar2025 01:26:16.288] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.backpackDropChance was corrected from null to its default, 0.5. 
-[15Mar2025 01:26:16.289] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.entityBackpackAdditions.lootingChanceIncreasePerLevel was corrected from null to its default, 0.15. 
-[15Mar2025 01:26:16.290] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.nerfs was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15Mar2025 01:26:16.290] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.nerfs.tooManyBackpacksSlowness was corrected from null to its default, false. 
-[15Mar2025 01:26:16.290] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.nerfs.maxNumberOfBackpacks was corrected from null to its default, 3. 
-[15Mar2025 01:26:16.291] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.nerfs.slownessLevelsPerAdditionalBackpack was corrected from null to its default, 1.0. 
-[15Mar2025 01:26:16.291] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.nerfs.onlyWornBackpackTriggersUpgrades was corrected from null to its default, false. 
-[15Mar2025 01:26:16.292] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.maxUpgradesPerStorage was corrected from null to its default, [furnace_upgrades|1, jukebox_upgrade|1, stack_upgrades|3]. 
-[15Mar2025 01:26:16.292] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.itemFluidHandlerEnabled was corrected from null to its default, true. 
-[15Mar2025 01:26:16.293] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.allowOpeningOtherPlayerBackpacks was corrected from null to its default, true. 
-[15Mar2025 01:26:16.294] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.itemDisplayDisabled was corrected from null to its default, false. 
-[15Mar2025 01:26:16.294] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tickDedupeLogicDisabled was corrected from null to its default, false. 
-[15Mar2025 01:26:16.295] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.canBePlacedInContainerItems was corrected from null to its default, false. 
-[15Mar2025 01:26:16.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[15Mar2025 01:26:23.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[15Mar2025 01:26:30.885] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:30.952] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:30.990] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.007] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.032] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.042] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.056] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.062] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.093] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.125] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.142] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.143] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.146] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.149] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.153] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.156] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:31.504] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:32.003] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:32.503] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 01:26:33.278] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9775 ms
-[15Mar2025 01:26:33.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.180s)! For help, type "help"
-[15Mar2025 01:26:33.337] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[15Mar2025 01:26:33.345] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[15Mar2025 01:26:33.363] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'centre-ok.gl.at.ply.gg'
-[15Mar2025 01:26:33.365] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1744
-[15Mar2025 01:27:11.976] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[15Mar2025 01:27:12.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deiarcoiris[/127.147.66.255:48811] logged in with entity id 37 at (113.62003438806845, 63.0, 100.96221853152352)
-[15Mar2025 01:27:12.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris joined the game
-[15Mar2025 01:27:13.295] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deiarcoiris (18)
-[15Mar2025 01:27:13.303] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
-[15Mar2025 01:27:22.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
-[15Mar2025 01:27:23.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
-[15Mar2025 01:27:23.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf) successfully connected to voice chat
-[15Mar2025 01:27:40.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the time to 1000]
-[15Mar2025 01:30:41.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 01:30:49.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Monster Hunter]
-[15Mar2025 01:30:51.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 01:31:16.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: The difficulty has been set to Peaceful]
-[15Mar2025 01:31:24.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: The difficulty has been set to Easy]
-[15Mar2025 01:34:55.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 01:35:12.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 01:39:47.204] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/2806, l='ServerLevel[world]', x=340.20, y=78.98, z=361.65]
-[15Mar2025 01:48:38.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the time to 1000]
-[15Mar2025 01:49:43.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was slain by Zombie
-[15Mar2025 01:50:00.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 373.500000, 61.500000, 361.500000]
-[15Mar2025 01:50:37.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was slain by Zombie
-[15Mar2025 01:50:47.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 376.500000, 61.500000, 368.500000]
-[15Mar2025 01:52:02.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 01:53:00.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 01:53:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 01:54:33.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 01:54:55.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 01:55:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 01:55:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 01:55:25.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 01:56:18.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was shot by Skeleton
-[15Mar2025 01:56:18.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 01:56:31.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 651.500000, 1.500000, 378.500000]
-[15Mar2025 01:56:53.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: The difficulty has been set to Peaceful]
-[15Mar2025 01:56:56.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 01:57:54.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Acquire Hardware]
-[15Mar2025 01:58:22.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Isn't It Iron Pick]
-[15Mar2025 02:04:34.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Diamonds!]
-[15Mar2025 02:11:39.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 02:11:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 02:12:12.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 02:12:19.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 02:12:35.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 02:12:48.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 02:13:56.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 02:14:09.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 02:15:03.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 02:15:36.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 02:17:46.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 02:18:14.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 02:19:27.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 02:19:38.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 02:27:44.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 02:29:26.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 02:30:18.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 02:30:25.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 13:34:30.039] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[15Mar2025 13:34:30.043] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[15Mar2025 13:34:32.498] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[15Mar2025 13:34:32.725] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Serveer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[15Mar2025 13:34:34.145] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[15Mar2025 13:34:34.149] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Mar2025 13:34:34.154] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Mar2025 13:34:34.158] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Mar2025 13:34:35.056] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[15Mar2025 13:34:35.059] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[15Mar2025 13:34:40.986] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15Mar2025 13:34:41.128] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15Mar2025 13:34:43.224] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15Mar2025 13:35:05.381] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
+[15Mar2025 13:35:05.454] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[15Mar2025 13:35:05.455] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[15Mar2025 13:35:06.152] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[15Mar2025 13:35:06.550] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@3596c09d has been registered twice for the same name treechop:chop_wood.
+[15Mar2025 13:35:07.391] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[15Mar2025 13:35:07.578] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[15Mar2025 13:35:07.689] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[15Mar2025 13:35:07.711] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[15Mar2025 13:35:07.714] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[15Mar2025 13:35:07.714] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[15Mar2025 13:35:08.253] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[15Mar2025 13:35:08.254] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[15Mar2025 13:35:08.257] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[15Mar2025 13:35:08.259] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[15Mar2025 13:35:08.644] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[15Mar2025 13:35:10.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.28 Target: null
+[15Mar2025 13:35:10.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
+[15Mar2025 13:35:14.005] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Mar2025 13:35:16.826] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serveer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
+[15Mar2025 13:35:16.827] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serveer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
+[15Mar2025 13:35:23.902] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[15Mar2025 13:35:24.439] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1336 advancements
+[15Mar2025 13:35:25.156] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.http.HttpTimeoutException: request timed out
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:572) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.3.7.jar%23136!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.3.7.jar%23136!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23136!/:?]
+[15Mar2025 13:35:25.159] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15Mar2025 13:35:25.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[15Mar2025 13:35:25.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[15Mar2025 13:35:25.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[15Mar2025 13:35:26.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[15Mar2025 13:35:26.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15Mar2025 13:35:26.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15Mar2025 13:35:26.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15Mar2025 13:35:26.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15Mar2025 13:35:27.030] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15Mar2025 13:35:27.347] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15Mar2025 13:35:27.348] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15Mar2025 13:35:27.351] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15Mar2025 13:35:27.352] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15Mar2025 13:35:27.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15Mar2025 13:35:38.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15Mar2025 13:35:49.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.631] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.631] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.768] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.807] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.819] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.833] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.848] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.860] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.875] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.886] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.897] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.909] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.921] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:49.994] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:50.009] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:50.047] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:50.071] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:50.085] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:50.118] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:50.151] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:50.160] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:50.166] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:50.185] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:50.686] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:51.189] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:51.692] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:52.187] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:52.680] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:53.180] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:53.682] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:54.181] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:54.699] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 13:35:55.609] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 16930 ms
+[15Mar2025 13:35:55.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (28.227s)! For help, type "help"
+[15Mar2025 13:35:55.750] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Mar2025 13:35:55.764] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[15Mar2025 13:35:55.780] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'centre-ok.gl.at.ply.gg'
+[15Mar2025 13:35:55.783] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1744
+[15Mar2025 13:36:07.675] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[15Mar2025 13:36:07.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deiarcoiris[/127.147.66.255:43331] logged in with entity id 26 at (262.5931637723367, 63.0, 382.9542357055504)
+[15Mar2025 13:36:08.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris joined the game
+[15Mar2025 13:36:14.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4502ms or 90 ticks behind
+[15Mar2025 13:36:14.404] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deiarcoiris (18)
+[15Mar2025 13:36:14.411] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
+[15Mar2025 13:36:17.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[15Mar2025 13:36:18.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[15Mar2025 13:36:18.271] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf) successfully connected to voice chat
+[15Mar2025 13:36:31.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[15Mar2025 13:36:34.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 13:36:56.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the time to 1000]
+[15Mar2025 13:37:45.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 13:37:56.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was slain by Zombie
+[15Mar2025 13:38:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 256.500000, 64.500000, 361.500000]
+[15Mar2025 13:38:22.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 13:38:49.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 13:39:07.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was slain by Zombie
+[15Mar2025 13:39:15.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 233.500000, 64.500000, 356.500000]
+[15Mar2025 13:39:16.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 13:39:36.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 13:39:36.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Suit Up]
+[15Mar2025 13:40:03.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Not Today, Thank You]
+[15Mar2025 13:46:54.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 13:47:42.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 13:48:02.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 13:48:40.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 13:49:18.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 13:49:30.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 13:51:23.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 13:52:03.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
