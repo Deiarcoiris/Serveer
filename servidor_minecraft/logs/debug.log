@@ -1782,3 +1782,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Mar2025 02:14:09.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
 [15Mar2025 02:15:03.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
 [15Mar2025 02:15:36.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 02:16:33.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 02:16:33.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 02:17:46.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 02:18:14.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 02:19:27.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 02:19:38.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 02:21:33.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 02:21:33.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 02:26:33.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 02:26:33.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 02:27:44.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 02:29:26.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 02:30:18.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 02:30:25.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 02:31:33.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 02:31:33.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
