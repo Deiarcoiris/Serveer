@@ -120,3 +120,79 @@
 [15Mar2025 15:02:32.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> THANK
 [15Mar2025 15:02:34.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> me escuchas
 [15Mar2025 15:02:51.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> dale a la v
+[15Mar2025 15:03:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> LISTO SI XD
+[15Mar2025 15:03:25.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
+[15Mar2025 15:03:25.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[15Mar2025 15:03:25.239] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
+[15Mar2025 15:03:30.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:50471] logged in with entity id 2555 at (250.1105585242946, 63.0, 430.69999998807907)
+[15Mar2025 15:03:30.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
+[15Mar2025 15:03:30.768] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
+[15Mar2025 15:03:30.771] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[15Mar2025 15:03:35.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 15:03:36.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 15:03:36.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
+[15Mar2025 15:03:38.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
+[15Mar2025 15:03:38.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[15Mar2025 15:03:38.083] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
+[15Mar2025 15:03:44.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:47111] logged in with entity id 2670 at (249.9236343740977, 63.0, 429.4497611395956)
+[15Mar2025 15:03:44.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
+[15Mar2025 15:03:44.844] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
+[15Mar2025 15:03:44.846] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[15Mar2025 15:03:49.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 15:03:50.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 15:03:50.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
+[15Mar2025 15:03:51.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
+[15Mar2025 15:03:51.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[15Mar2025 15:03:51.930] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
+[15Mar2025 15:03:57.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:53039] logged in with entity id 2712 at (249.9236343740977, 63.0, 429.4497611395956)
+[15Mar2025 15:03:57.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
+[15Mar2025 15:03:57.610] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
+[15Mar2025 15:03:57.610] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[15Mar2025 15:04:02.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 15:04:03.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
+[15Mar2025 15:04:03.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[15Mar2025 15:04:03.081] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
+[15Mar2025 15:04:08.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:52613] logged in with entity id 2815 at (249.9236343740977, 63.0, 429.4497611395956)
+[15Mar2025 15:04:08.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
+[15Mar2025 15:04:09.002] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
+[15Mar2025 15:04:09.005] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[15Mar2025 15:04:13.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 15:04:14.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 15:04:14.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
+[15Mar2025 15:04:26.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> RE MALA LA CONECCION :v
+[15Mar2025 15:04:31.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
+[15Mar2025 15:04:31.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[15Mar2025 15:04:31.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
+[15Mar2025 15:04:49.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:46647] logged in with entity id 3029 at (249.79714870373195, 63.0, 428.1308161630779)
+[15Mar2025 15:04:49.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
+[15Mar2025 15:04:49.567] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
+[15Mar2025 15:04:49.568] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[15Mar2025 15:04:54.428] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 15:04:55.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 15:04:55.428] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
+[15Mar2025 15:05:00.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> no lo configuraste bien
+[15Mar2025 15:05:07.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
+[15Mar2025 15:05:07.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[15Mar2025 15:05:07.734] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
+[15Mar2025 15:05:14.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:35105] logged in with entity id 3158 at (251.0413540661412, 63.0, 421.80896027728875)
+[15Mar2025 15:05:14.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
+[15Mar2025 15:05:15.144] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
+[15Mar2025 15:05:15.146] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[15Mar2025 15:05:15.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> como asi
+[15Mar2025 15:05:20.165] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 15:05:21.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 15:05:21.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
+[15Mar2025 15:05:59.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> cada que abro la mochila me saca debes de pasarme la misma version del mod
+[15Mar2025 15:06:11.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
+[15Mar2025 15:06:11.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[15Mar2025 15:06:11.933] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[15Mar2025 15:08:01.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK has made the advancement [Stone Age]
+[15Mar2025 15:08:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK has made the advancement [Monster Hunter]
+[15Mar2025 15:08:38.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK has made the advancement [Sweet Dreams]
+[15Mar2025 15:09:03.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=64, z=351} BlockPos{x=242, y=62, z=351}
+[15Mar2025 15:10:09.542] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[15Mar2025 15:10:09.546] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[15Mar2025 15:10:09.593] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@470309bf[id=<null>,name=kagamy,properties={},legacy=false] (/127.102.247.233:54593) lost connection: Connection closed - mismatched mod channel list
+[15Mar2025 15:12:12.524] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
+[15Mar2025 15:12:12.527] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[15Mar2025 15:12:12.534] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6020b226[id=<null>,name=kagamy,properties={},legacy=false] (/127.102.247.233:51295) lost connection: Connection closed - mismatched mod channel list
