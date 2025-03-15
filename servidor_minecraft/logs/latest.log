@@ -120,3 +120,13 @@
 [15Mar2025 22:16:17.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
 [15Mar2025 22:16:17.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
 [15Mar2025 22:16:18.004] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[15Mar2025 22:23:37.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deiarcoiris[/127.147.66.255:59973] logged in with entity id 3905 at (452.52017480744036, 17.401397885794264, 467.3131218347858)
+[15Mar2025 22:23:37.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris joined the game
+[15Mar2025 22:23:38.228] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deiarcoiris (18)
+[15Mar2025 22:23:38.232] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
+[15Mar2025 22:23:39.432] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[15Mar2025 22:23:40.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[15Mar2025 22:23:40.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf) successfully connected to voice chat
+[15Mar2025 22:24:00.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
+[15Mar2025 22:24:00.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[15Mar2025 22:24:00.892] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
