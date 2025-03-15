@@ -108,3 +108,49 @@
 [15Mar2025 19:06:37.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b68116ff-f09f-348a-984b-2d11fb11a6ec
 [15Mar2025 19:06:38.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b68116ff-f09f-348a-984b-2d11fb11a6ec
 [15Mar2025 19:06:38.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Biembo_Skyler (b68116ff-f09f-348a-984b-2d11fb11a6ec) successfully connected to voice chat
+[15Mar2025 19:10:58.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biembo_Skyler lost connection: Disconnected
+[15Mar2025 19:10:58.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biembo_Skyler left the game
+[15Mar2025 19:10:58.860] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Biembo_Skyler
+[15Mar2025 19:11:13.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Biembo_Skyler[/127.135.147.231:53015] logged in with entity id 3250 at (261.5614232961573, 63.0, 381.76249998807907)
+[15Mar2025 19:11:13.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biembo_Skyler joined the game
+[15Mar2025 19:11:13.803] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Biembo_Skyler (18)
+[15Mar2025 19:11:13.805] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Biembo_Skyler
+[15Mar2025 19:11:19.195] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b68116ff-f09f-348a-984b-2d11fb11a6ec
+[15Mar2025 19:11:20.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b68116ff-f09f-348a-984b-2d11fb11a6ec
+[15Mar2025 19:11:20.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Biembo_Skyler (b68116ff-f09f-348a-984b-2d11fb11a6ec) successfully connected to voice chat
+[15Mar2025 19:11:30.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biembo_Skyler lost connection: Disconnected
+[15Mar2025 19:11:30.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biembo_Skyler left the game
+[15Mar2025 19:11:30.399] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Biembo_Skyler
+[15Mar2025 19:12:06.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Biembo_Skyler[/127.135.147.231:53829] logged in with entity id 3407 at (261.69999998807907, 60.0, 378.69999998807907)
+[15Mar2025 19:12:06.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biembo_Skyler joined the game
+[15Mar2025 19:12:06.953] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Biembo_Skyler (18)
+[15Mar2025 19:12:06.956] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Biembo_Skyler
+[15Mar2025 19:12:11.792] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b68116ff-f09f-348a-984b-2d11fb11a6ec
+[15Mar2025 19:12:12.792] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b68116ff-f09f-348a-984b-2d11fb11a6ec
+[15Mar2025 19:12:12.796] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Biembo_Skyler (b68116ff-f09f-348a-984b-2d11fb11a6ec) successfully connected to voice chat
+[15Mar2025 19:12:20.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biembo_Skyler lost connection: Disconnected
+[15Mar2025 19:12:20.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biembo_Skyler left the game
+[15Mar2025 19:12:20.400] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Biembo_Skyler
+[15Mar2025 19:12:49.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Biembo_Skyler[/127.135.147.231:46081] logged in with entity id 3502 at (261.69999998807907, 60.0, 378.69999998807907)
+[15Mar2025 19:12:49.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biembo_Skyler joined the game
+[15Mar2025 19:12:49.325] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Biembo_Skyler (18)
+[15Mar2025 19:12:49.327] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Biembo_Skyler
+[15Mar2025 19:12:53.696] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b68116ff-f09f-348a-984b-2d11fb11a6ec
+[15Mar2025 19:12:54.697] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b68116ff-f09f-348a-984b-2d11fb11a6ec
+[15Mar2025 19:12:54.697] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Biembo_Skyler (b68116ff-f09f-348a-984b-2d11fb11a6ec) successfully connected to voice chat
+[15Mar2025 19:16:22.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biembo_Skyler lost connection: Disconnected
+[15Mar2025 19:16:22.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biembo_Skyler left the game
+[15Mar2025 19:16:22.107] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Biembo_Skyler
+[15Mar2025 19:17:26.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
+[15Mar2025 19:17:26.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[15Mar2025 19:17:26.600] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
+[15Mar2025 19:17:32.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:32823] logged in with entity id 4754 at (309.8013779147118, 63.0, 594.5803220769003)
+[15Mar2025 19:17:32.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
+[15Mar2025 19:17:33.824] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
+[15Mar2025 19:17:33.825] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[15Mar2025 19:17:34.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 19:17:35.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 19:17:35.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
+[15Mar2025 19:17:45.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
+[15Mar2025 19:17:45.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[15Mar2025 19:17:45.556] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
