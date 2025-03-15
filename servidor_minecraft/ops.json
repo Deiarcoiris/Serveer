@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "223b0b40-1226-390e-8044-6b99f867dca5",
+    "name": "Guts_BRSK",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "48d7b04e-56d7-3aea-af42-2d7b6577daaf",
     "name": "Deiarcoiris",
     "level": 4,
