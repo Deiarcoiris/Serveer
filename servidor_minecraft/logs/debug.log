@@ -1756,3 +1756,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Mar2025 01:55:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
 [15Mar2025 01:55:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
 [15Mar2025 01:55:25.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 01:56:18.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was shot by Skeleton
+[15Mar2025 01:56:18.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 01:56:31.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 651.500000, 1.500000, 378.500000]
+[15Mar2025 01:56:33.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 01:56:33.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 01:56:53.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: The difficulty has been set to Peaceful]
+[15Mar2025 01:56:56.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 01:57:54.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Acquire Hardware]
+[15Mar2025 01:58:22.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Isn't It Iron Pick]
+[15Mar2025 02:01:33.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 02:01:33.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 02:04:34.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Diamonds!]
