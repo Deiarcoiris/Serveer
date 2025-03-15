@@ -305,3 +305,16 @@
 [15Mar2025 01:34:55.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
 [15Mar2025 01:35:12.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
 [15Mar2025 01:39:47.204] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/2806, l='ServerLevel[world]', x=340.20, y=78.98, z=361.65]
+[15Mar2025 01:48:38.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the time to 1000]
+[15Mar2025 01:49:43.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was slain by Zombie
+[15Mar2025 01:50:00.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 373.500000, 61.500000, 361.500000]
+[15Mar2025 01:50:37.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was slain by Zombie
+[15Mar2025 01:50:47.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 376.500000, 61.500000, 368.500000]
+[15Mar2025 01:52:02.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 01:53:00.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 01:53:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 01:54:33.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 01:54:55.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 01:55:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[15Mar2025 01:55:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[15Mar2025 01:55:25.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]

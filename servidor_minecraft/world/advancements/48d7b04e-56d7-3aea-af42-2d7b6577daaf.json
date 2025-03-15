@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-15 01:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-03-15 01:33:27 +0000"
@@ -589,7 +595,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:creeper": "2025-03-15 01:30:49 +0000"
+      "minecraft:skeleton": "2025-03-15 01:50:09 +0000",
+      "minecraft:creeper": "2025-03-15 01:30:49 +0000",
+      "minecraft:zombie": "2025-03-15 01:51:01 +0000"
     },
     "done": false
   },
@@ -602,6 +610,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-15 01:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-15 01:50:10 +0000"
     },
     "done": true
   },
