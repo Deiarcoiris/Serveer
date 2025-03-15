@@ -1,222 +1,110 @@
-[15Mar2025 14:53:13.960] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[15Mar2025 14:53:13.972] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[15Mar2025 14:53:15.208] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[15Mar2025 14:53:15.406] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Serveer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[15Mar2025 14:53:16.289] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[15Mar2025 14:53:16.294] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Mar2025 14:53:16.299] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Mar2025 14:53:16.303] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Mar2025 14:53:16.788] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[15Mar2025 14:53:16.792] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[15Mar2025 14:53:22.106] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15Mar2025 14:53:22.252] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[15Mar2025 14:53:24.813] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15Mar2025 14:53:44.815] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
-[15Mar2025 14:53:44.873] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[15Mar2025 14:53:44.874] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[15Mar2025 14:53:45.735] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
-[15Mar2025 14:53:46.409] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@3596c09d has been registered twice for the same name treechop:chop_wood.
-[15Mar2025 14:53:47.334] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[15Mar2025 14:53:47.426] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[15Mar2025 14:53:47.510] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[15Mar2025 14:53:47.532] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[15Mar2025 14:53:47.533] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[15Mar2025 14:53:47.534] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[15Mar2025 14:53:48.198] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[15Mar2025 14:53:48.205] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[15Mar2025 14:53:48.219] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[15Mar2025 14:53:48.220] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[15Mar2025 14:53:48.800] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[15Mar2025 14:53:50.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.28 Target: null
-[15Mar2025 14:53:50.391] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
-[15Mar2025 14:53:50.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.4+mod Target: null
-[15Mar2025 14:53:50.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[15Mar2025 14:53:51.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[15Mar2025 14:53:51.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[15Mar2025 14:53:51.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
-[15Mar2025 14:53:54.114] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15Mar2025 14:53:56.543] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serveer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
-[15Mar2025 14:53:56.547] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serveer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
-[15Mar2025 14:54:02.766] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[15Mar2025 14:54:03.211] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1336 advancements
-[15Mar2025 14:54:04.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[15Mar2025 14:54:04.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[15Mar2025 14:54:04.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[15Mar2025 14:54:04.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[15Mar2025 14:54:05.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[15Mar2025 14:54:05.292] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[15Mar2025 14:54:05.621] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15Mar2025 14:54:05.622] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[15Mar2025 14:54:05.622] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15Mar2025 14:54:05.623] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[15Mar2025 14:54:05.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[15Mar2025 14:54:16.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[15Mar2025 14:54:27.204] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.214] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.223] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.234] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.237] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.240] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.245] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.255] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.259] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.263] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.264] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.265] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.267] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.268] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.276] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.287] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.295] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.301] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.305] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.309] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.313] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.315] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.319] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:27.818] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:28.408] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:28.818] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:29.318] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:29.829] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Mar2025 14:54:30.360] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[15Mar2025 14:54:31.271] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 14954 ms
-[15Mar2025 14:54:31.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (25.423s)! For help, type "help"
-[15Mar2025 14:54:31.623] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[15Mar2025 14:54:31.664] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[15Mar2025 14:54:31.717] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'centre-ok.gl.at.ply.gg'
-[15Mar2025 14:54:31.723] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1744
-[15Mar2025 14:55:33.031] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[15Mar2025 14:55:33.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deiarcoiris[/127.147.66.255:42305] logged in with entity id 26 at (261.30000001192093, 63.0, 380.1416464703397)
-[15Mar2025 14:55:33.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris joined the game
-[15Mar2025 14:55:34.497] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deiarcoiris (18)
-[15Mar2025 14:55:34.505] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
-[15Mar2025 14:55:36.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
-[15Mar2025 14:55:36.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
-[15Mar2025 14:55:38.164] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
-[15Mar2025 14:55:38.176] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf) successfully connected to voice chat
-[15Mar2025 14:57:19.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 14:57:49.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 14:58:12.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 14:58:26.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 14:59:47.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[15Mar2025 15:00:36.691] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:49491] logged in with entity id 1397 at (58.5, 71.0, 73.5)
-[15Mar2025 15:00:36.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
-[15Mar2025 15:00:37.657] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
-[15Mar2025 15:00:37.660] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
-[15Mar2025 15:00:43.106] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:00:44.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:00:44.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
-[15Mar2025 15:00:44.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: The difficulty has been set to Hard]
-[15Mar2025 15:00:52.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[15Mar2025 15:01:34.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=71, z=59} BlockPos{x=47, y=69, z=76}
-[15Mar2025 15:01:34.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=71, z=59} BlockPos{x=48, y=69, z=76}
-[15Mar2025 15:01:34.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=71, z=59} BlockPos{x=47, y=69, z=72}
-[15Mar2025 15:01:35.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=71, z=59} BlockPos{x=48, y=69, z=73}
-[15Mar2025 15:01:36.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=71, z=59} BlockPos{x=48, y=69, z=73}
-[15Mar2025 15:01:36.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=71, z=59} BlockPos{x=47, y=70, z=77}
-[15Mar2025 15:01:41.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Guts_BRSK to Deiarcoiris]
-[15Mar2025 15:01:55.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> toma
-[15Mar2025 15:02:32.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> THANK
-[15Mar2025 15:02:34.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> me escuchas
-[15Mar2025 15:02:51.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> dale a la v
-[15Mar2025 15:03:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> LISTO SI XD
-[15Mar2025 15:03:25.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
-[15Mar2025 15:03:25.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
-[15Mar2025 15:03:25.239] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
-[15Mar2025 15:03:30.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:50471] logged in with entity id 2555 at (250.1105585242946, 63.0, 430.69999998807907)
-[15Mar2025 15:03:30.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
-[15Mar2025 15:03:30.768] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
-[15Mar2025 15:03:30.771] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
-[15Mar2025 15:03:35.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:03:36.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:03:36.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
-[15Mar2025 15:03:38.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
-[15Mar2025 15:03:38.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
-[15Mar2025 15:03:38.083] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
-[15Mar2025 15:03:44.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:47111] logged in with entity id 2670 at (249.9236343740977, 63.0, 429.4497611395956)
-[15Mar2025 15:03:44.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
-[15Mar2025 15:03:44.844] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
-[15Mar2025 15:03:44.846] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
-[15Mar2025 15:03:49.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:03:50.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:03:50.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
-[15Mar2025 15:03:51.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
-[15Mar2025 15:03:51.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
-[15Mar2025 15:03:51.930] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
-[15Mar2025 15:03:57.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:53039] logged in with entity id 2712 at (249.9236343740977, 63.0, 429.4497611395956)
-[15Mar2025 15:03:57.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
-[15Mar2025 15:03:57.610] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
-[15Mar2025 15:03:57.610] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
-[15Mar2025 15:04:02.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:04:03.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
-[15Mar2025 15:04:03.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
-[15Mar2025 15:04:03.081] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
-[15Mar2025 15:04:08.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:52613] logged in with entity id 2815 at (249.9236343740977, 63.0, 429.4497611395956)
-[15Mar2025 15:04:08.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
-[15Mar2025 15:04:09.002] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
-[15Mar2025 15:04:09.005] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
-[15Mar2025 15:04:13.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:04:14.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:04:14.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
-[15Mar2025 15:04:26.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> RE MALA LA CONECCION :v
-[15Mar2025 15:04:31.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
-[15Mar2025 15:04:31.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
-[15Mar2025 15:04:31.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
-[15Mar2025 15:04:49.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:46647] logged in with entity id 3029 at (249.79714870373195, 63.0, 428.1308161630779)
-[15Mar2025 15:04:49.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
-[15Mar2025 15:04:49.567] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
-[15Mar2025 15:04:49.568] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
-[15Mar2025 15:04:54.428] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:04:55.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:04:55.428] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
-[15Mar2025 15:05:00.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> no lo configuraste bien
-[15Mar2025 15:05:07.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
-[15Mar2025 15:05:07.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
-[15Mar2025 15:05:07.734] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
-[15Mar2025 15:05:14.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:35105] logged in with entity id 3158 at (251.0413540661412, 63.0, 421.80896027728875)
-[15Mar2025 15:05:14.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
-[15Mar2025 15:05:15.144] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
-[15Mar2025 15:05:15.146] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
-[15Mar2025 15:05:15.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> como asi
-[15Mar2025 15:05:20.165] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:05:21.168] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:05:21.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
-[15Mar2025 15:05:59.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> cada que abro la mochila me saca debes de pasarme la misma version del mod
-[15Mar2025 15:06:11.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
-[15Mar2025 15:06:11.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
-[15Mar2025 15:06:11.933] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
-[15Mar2025 15:08:01.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK has made the advancement [Stone Age]
-[15Mar2025 15:08:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK has made the advancement [Monster Hunter]
-[15Mar2025 15:08:38.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK has made the advancement [Sweet Dreams]
-[15Mar2025 15:09:03.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=244, y=64, z=351} BlockPos{x=242, y=62, z=351}
-[15Mar2025 15:10:09.542] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
-[15Mar2025 15:10:09.546] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[15Mar2025 15:10:09.593] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@470309bf[id=<null>,name=kagamy,properties={},legacy=false] (/127.102.247.233:54593) lost connection: Connection closed - mismatched mod channel list
-[15Mar2025 15:12:12.524] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
-[15Mar2025 15:12:12.527] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[15Mar2025 15:12:12.534] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6020b226[id=<null>,name=kagamy,properties={},legacy=false] (/127.102.247.233:51295) lost connection: Connection closed - mismatched mod channel list
-[15Mar2025 15:15:17.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK has made the advancement [Getting an Upgrade]
-[15Mar2025 15:19:11.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
-[15Mar2025 15:19:11.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
-[15Mar2025 15:19:11.634] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
-[15Mar2025 15:21:14.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:60271] logged in with entity id 6396 at (311.99788094060506, 63.0, 595.3767200215317)
-[15Mar2025 15:21:14.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
-[15Mar2025 15:21:15.741] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
-[15Mar2025 15:21:15.744] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
-[15Mar2025 15:21:17.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:21:18.329] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:21:18.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
-[15Mar2025 15:21:34.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
-[15Mar2025 15:21:34.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
-[15Mar2025 15:21:34.630] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
-[15Mar2025 15:22:33.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:39915] logged in with entity id 6713 at (312.45878772205015, 63.0, 592.9144337082765)
-[15Mar2025 15:22:33.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
-[15Mar2025 15:22:34.510] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
-[15Mar2025 15:22:34.512] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
-[15Mar2025 15:22:35.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:22:36.705] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
-[15Mar2025 15:22:36.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
-[15Mar2025 15:23:24.353] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedbackpacks:channel] rejected their client side version number
-[15Mar2025 15:23:24.354] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[15Mar2025 15:23:24.390] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18d36322[id=<null>,name=kagamy,properties={},legacy=false] (/127.102.247.233:33559) lost connection: Connection closed - mismatched mod channel list
+[15Mar2025 18:58:03.876] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[15Mar2025 18:58:03.881] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[15Mar2025 18:58:04.375] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[15Mar2025 18:58:04.453] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Serveer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[15Mar2025 18:58:04.937] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[15Mar2025 18:58:04.942] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Mar2025 18:58:04.945] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Mar2025 18:58:04.947] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Mar2025 18:58:05.174] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[15Mar2025 18:58:05.177] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[15Mar2025 18:58:08.735] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15Mar2025 18:58:08.857] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15Mar2025 18:58:10.211] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15Mar2025 18:58:20.424] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
+[15Mar2025 18:58:20.504] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[15Mar2025 18:58:20.506] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[15Mar2025 18:58:20.966] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[15Mar2025 18:58:21.177] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@15bb197 has been registered twice for the same name treechop:chop_wood.
+[15Mar2025 18:58:21.968] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[15Mar2025 18:58:22.034] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[15Mar2025 18:58:22.118] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[15Mar2025 18:58:22.133] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[15Mar2025 18:58:22.133] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[15Mar2025 18:58:22.133] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[15Mar2025 18:58:22.437] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[15Mar2025 18:58:22.440] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[15Mar2025 18:58:22.443] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[15Mar2025 18:58:22.443] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[15Mar2025 18:58:22.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[15Mar2025 18:58:24.205] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.28 Target: null
+[15Mar2025 18:58:24.210] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
+[15Mar2025 18:58:24.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.4+mod Target: null
+[15Mar2025 18:58:24.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15Mar2025 18:58:24.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[15Mar2025 18:58:24.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[15Mar2025 18:58:24.758] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[15Mar2025 18:58:26.170] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Mar2025 18:58:27.825] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serveer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/assets/.mcassetsroot' uses unexpected schema
+[15Mar2025 18:58:27.827] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serveer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23135!/data/.mcassetsroot' uses unexpected schema
+[15Mar2025 18:58:31.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[15Mar2025 18:58:32.089] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1336 advancements
+[15Mar2025 18:58:33.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[15Mar2025 18:58:33.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15Mar2025 18:58:33.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15Mar2025 18:58:33.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15Mar2025 18:58:33.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15Mar2025 18:58:33.467] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15Mar2025 18:58:33.598] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15Mar2025 18:58:33.598] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15Mar2025 18:58:33.599] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15Mar2025 18:58:33.599] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15Mar2025 18:58:33.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15Mar2025 18:58:40.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15Mar2025 18:58:48.325] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.327] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.478] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.560] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.565] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.565] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.584] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.585] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.588] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.597] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.603] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.607] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.613] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.622] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.628] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.634] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:48.820] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:49.320] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:49.820] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Mar2025 18:58:50.322] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[15Mar2025 18:58:50.628] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9809 ms
+[15Mar2025 18:58:50.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.010s)! For help, type "help"
+[15Mar2025 18:58:50.667] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Mar2025 18:58:50.677] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[15Mar2025 18:58:50.691] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'centre-ok.gl.at.ply.gg'
+[15Mar2025 18:58:50.693] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1744
+[15Mar2025 19:01:42.068] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[15Mar2025 19:01:42.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:58369] logged in with entity id 26 at (314.5325299744616, 63.0, 593.4210564926677)
+[15Mar2025 19:01:42.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
+[15Mar2025 19:01:46.995] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
+[15Mar2025 19:01:47.000] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[15Mar2025 19:01:47.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4870ms or 97 ticks behind
+[15Mar2025 19:01:47.625] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 19:01:48.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
+[15Mar2025 19:01:48.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
+[15Mar2025 19:02:50.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Biembo_Skyler[/127.135.147.231:44661] logged in with entity id 509 at (53.5, 80.0, 88.5)
+[15Mar2025 19:02:50.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biembo_Skyler joined the game
+[15Mar2025 19:02:53.870] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Biembo_Skyler (18)
+[15Mar2025 19:02:53.873] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Biembo_Skyler
+[15Mar2025 19:02:57.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b68116ff-f09f-348a-984b-2d11fb11a6ec
+[15Mar2025 19:02:58.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b68116ff-f09f-348a-984b-2d11fb11a6ec
+[15Mar2025 19:02:58.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Biembo_Skyler (b68116ff-f09f-348a-984b-2d11fb11a6ec) successfully connected to voice chat
+[15Mar2025 19:03:55.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=57, y=74, z=92}
+[15Mar2025 19:04:20.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Mar2025 19:04:20.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Op Gust_BRSK<--[HERE]
+[15Mar2025 19:05:10.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Mar2025 19:05:10.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OP Guts_BRSK<--[HERE]
+[15Mar2025 19:06:00.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biembo_Skyler lost connection: Disconnected
+[15Mar2025 19:06:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biembo_Skyler left the game
+[15Mar2025 19:06:00.564] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Biembo_Skyler
+[15Mar2025 19:06:31.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Biembo_Skyler[/127.135.147.231:55769] logged in with entity id 1747 at (58.208955584765626, 75.0, 90.75835008374425)
+[15Mar2025 19:06:31.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biembo_Skyler joined the game
+[15Mar2025 19:06:32.879] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Biembo_Skyler (18)
+[15Mar2025 19:06:32.880] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Biembo_Skyler
+[15Mar2025 19:06:37.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b68116ff-f09f-348a-984b-2d11fb11a6ec
+[15Mar2025 19:06:38.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b68116ff-f09f-348a-984b-2d11fb11a6ec
+[15Mar2025 19:06:38.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Biembo_Skyler (b68116ff-f09f-348a-984b-2d11fb11a6ec) successfully connected to voice chat
