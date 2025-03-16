@@ -2170,9 +2170,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
-      "has_coal_block": "2025-03-16 18:12:41 +0000"
+      "axolotl_bucket": "2025-03-16 18:02:32 +0000"
     },
     "done": true
   },
@@ -2188,9 +2188,9 @@
     },
     "done": false
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "axolotl_bucket": "2025-03-16 18:02:32 +0000"
+      "has_coal_block": "2025-03-16 18:12:41 +0000"
     },
     "done": true
   },
