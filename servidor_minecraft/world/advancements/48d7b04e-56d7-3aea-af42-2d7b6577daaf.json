@@ -19,6 +19,7 @@
       "minecraft:dark_forest": "2025-03-16 00:05:23 +0000",
       "minecraft:river": "2025-03-16 01:41:03 +0000",
       "minecraft:grove": "2025-03-16 01:50:21 +0000",
+      "minecraft:swamp": "2025-03-16 21:40:56 +0000",
       "minecraft:forest": "2025-03-16 01:54:14 +0000",
       "minecraft:lush_caves": "2025-03-16 01:07:43 +0000",
       "minecraft:ocean": "2025-03-16 02:03:08 +0000",
@@ -2191,6 +2192,36 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-03-16 18:12:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-03-16 21:47:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-03-16 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-03-16 21:49:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-03-16 21:49:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-03-16 21:42:18 +0000"
     },
     "done": true
   },
