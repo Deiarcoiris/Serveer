@@ -2701,3 +2701,61 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Mar2025 15:53:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 771.500000, 67.500000, 858.500000]
 [16Mar2025 15:53:16.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 819.500000, 66.500000, 878.500000]
 [16Mar2025 15:53:25.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -294.500000, 101.500000, 84.500000]
+[16Mar2025 15:53:32.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> deberias de poner el alex mobs
+[16Mar2025 15:53:57.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> tienes cuero
+[16Mar2025 15:54:08.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> si 4
+[16Mar2025 15:54:21.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> regala me uno plis
+[16Mar2025 15:54:30.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 716.500000, 69.500000, -1.500000]
+[16Mar2025 15:54:50.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> si
+[16Mar2025 15:54:58.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> entro en 10 minutos
+[16Mar2025 15:55:01.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
+[16Mar2025 15:55:01.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[16Mar2025 15:55:01.841] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Deiarcoiris
+[16Mar2025 15:55:01.843] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[16Mar2025 15:55:22.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 15:55:22.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 15:55:59.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 941.500000, 69.500000, 995.500000]
+[16Mar2025 15:56:04.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 796.500000, 67.500000, 1064.500000]
+[16Mar2025 15:56:14.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 738.500000, 66.500000, 990.500000]
+[16Mar2025 16:00:22.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 16:00:22.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 16:03:16.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 841.500000, 68.500000, 1145.500000]
+[16Mar2025 16:03:29.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 944.500000, 70.500000, 1221.500000]
+[16Mar2025 16:04:23.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 905.500000, 83.500000, 1272.500000]
+[16Mar2025 16:05:22.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 16:05:22.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 16:05:55.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 934.500000, 83.500000, 1434.500000]
+[16Mar2025 16:06:04.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 911.500000, 62.500000, 1492.500000]
+[16Mar2025 16:06:08.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 976.500000, 66.500000, 1542.500000]
+[16Mar2025 16:06:12.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 979.500000, 66.500000, 1568.500000]
+[16Mar2025 16:07:24.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1182.500000, 68.500000, 1653.500000]
+[16Mar2025 16:07:28.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1181.500000, 70.500000, 1727.500000]
+[16Mar2025 16:07:45.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1133.500000, 65.500000, 1763.500000]
+[16Mar2025 16:08:01.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1157.500000, 72.500000, 1842.500000]
+[16Mar2025 16:08:05.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1198.500000, 65.500000, 1855.500000]
+[16Mar2025 16:08:08.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1245.500000, 67.500000, 1838.500000]
+[16Mar2025 16:08:32.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1323.500000, 90.500000, 1722.500000]
+[16Mar2025 16:08:41.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1355.500000, 71.500000, 1888.500000]
+[16Mar2025 16:08:59.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1439.500000, 72.500000, 1953.500000]
+[16Mar2025 16:09:07.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1509.500000, 65.500000, 2041.500000]
+[16Mar2025 16:09:19.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1554.500000, 63.500000, 2067.500000]
+[16Mar2025 16:09:33.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1511.500000, 64.500000, 2131.500000]
+[16Mar2025 16:09:37.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1557.500000, 64.500000, 2139.500000]
+[16Mar2025 16:10:13.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK has made the advancement [Not Today, Thank You]
+[16Mar2025 16:10:22.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 16:10:22.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 16:10:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1512.500000, 63.500000, 2113.500000]
+[16Mar2025 16:11:13.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1587.500000, 80.500000, 2271.500000]
+[16Mar2025 16:11:17.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1527.500000, 89.500000, 2315.500000]
+[16Mar2025 16:11:36.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1525.500000, 87.500000, 2391.500000]
+[16Mar2025 16:11:48.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1581.500000, 63.500000, 2478.500000]
+[16Mar2025 16:12:17.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1719.500000, 72.500000, 2545.500000]
+[16Mar2025 16:12:30.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1555.500000, 67.500000, 2536.500000]
+[16Mar2025 16:12:42.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK was frozen by Ice Dragon
+[16Mar2025 16:12:53.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1554.500000, 66.500000, 2545.500000]
+[16Mar2025 16:13:26.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK was slain by Ice Dragon
+[16Mar2025 16:13:33.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1557.500000, 66.500000, 2521.500000]
+[16Mar2025 16:13:38.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK was slain by Ice Dragon
+[16Mar2025 16:13:43.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1561.500000, 66.500000, 2528.500000]
+[16Mar2025 16:13:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Creative Mode]
+[16Mar2025 16:14:06.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
