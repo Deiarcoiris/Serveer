@@ -2815,3 +2815,30 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Mar2025 01:59:46.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK has made the advancement [Hot Stuff]
 [16Mar2025 02:00:24.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> noooooooooooo
 [16Mar2025 02:00:41.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> si xdd y son re fuertes
+[16Mar2025 02:02:09.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 02:02:09.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 02:02:39.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 716.500000, 68.500000, -2.500000]
+[16Mar2025 02:02:43.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris drowned
+[16Mar2025 02:02:51.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 674.500000, 61.500000, 174.500000]
+[16Mar2025 02:02:56.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> xdddd
+[16Mar2025 02:03:13.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 730.500000, 65.500000, 124.500000]
+[16Mar2025 02:03:34.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK has made the advancement [We Need to Go Deeper]
+[16Mar2025 02:03:36.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5586ms or 111 ticks behind
+[16Mar2025 02:03:40.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [We Need to Go Deeper]
+[16Mar2025 02:04:37.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was slain by Enderman
+[16Mar2025 02:04:41.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[16Mar2025 02:05:01.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[16Mar2025 02:05:02.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 716.500000, 69.500000, -1.500000]
+[16Mar2025 02:07:15.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 02:07:15.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 02:07:34.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1006.500000, 75.500000, 312.500000]
+[16Mar2025 02:07:42.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 972.500000, 76.500000, 370.500000]
+[16Mar2025 02:08:32.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -294.500000, 101.500000, 84.500000]
+[16Mar2025 02:08:38.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> duerme
+[16Mar2025 02:09:03.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> duerme
+[16Mar2025 02:10:09.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[16Mar2025 02:10:21.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 716.500000, 69.500000, -1.500000]
+[16Mar2025 02:10:44.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Applied effect Instant Health to Guts_BRSK]
+[16Mar2025 02:11:24.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Applied effect Strength to Guts_BRSK]
+[16Mar2025 02:11:25.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Adventure Mode]
+[16Mar2025 02:11:26.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK has made the advancement [Who You Gonna Call?]
