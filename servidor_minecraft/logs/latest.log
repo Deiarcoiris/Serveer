@@ -242,3 +242,13 @@
 [16Mar2025 02:17:07.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
 [16Mar2025 02:17:07.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
 [16Mar2025 02:17:07.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
+[16Mar2025 02:27:54.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Mar2025 02:27:54.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Mar2025 02:27:54.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Mar2025 02:27:55.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Mar2025 02:28:04.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Mar2025 02:28:04.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Mar2025 02:28:04.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Mar2025 02:28:04.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Mar2025 02:28:04.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Mar2025 02:28:04.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
