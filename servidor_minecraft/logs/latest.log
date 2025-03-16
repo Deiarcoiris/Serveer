@@ -282,3 +282,29 @@
 [16Mar2025 23:24:58.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
 [16Mar2025 23:24:58.241] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
 [16Mar2025 23:24:58.307] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Mar2025 23:26:30.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:32881] logged in with entity id 42324 at (867.413824237436, -11.0, 541.7689788031178)
+[16Mar2025 23:26:30.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
+[16Mar2025 23:26:31.903] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
+[16Mar2025 23:26:31.906] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[16Mar2025 23:26:32.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
+[16Mar2025 23:26:33.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
+[16Mar2025 23:26:33.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
+[16Mar2025 23:27:31.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 716.500000, 68.500000, -2.500000]
+[16Mar2025 23:27:37.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 720.500000, 68.500000, 135.500000]
+[16Mar2025 23:28:17.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 863.500000, -14.500000, 540.500000]
+[16Mar2025 23:33:09.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 863.500000, -14.500000, 540.500000]
+[16Mar2025 23:33:17.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 743.500000, 65.500000, 961.500000]
+[16Mar2025 23:33:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[16Mar2025 23:34:21.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[16Mar2025 23:34:51.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1505.500000, 81.500000, 2270.500000]
+[16Mar2025 23:34:55.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1482.500000, 85.500000, 2314.500000]
+[16Mar2025 23:35:11.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deiarcoiris[/127.147.66.255:36295] logged in with entity id 45397 at (-294.2961477910326, 101.5625, 84.51049352130514)
+[16Mar2025 23:35:11.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris joined the game
+[16Mar2025 23:35:11.909] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deiarcoiris (18)
+[16Mar2025 23:35:11.910] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
+[16Mar2025 23:35:14.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[16Mar2025 23:35:15.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[16Mar2025 23:35:15.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf) successfully connected to voice chat
+[16Mar2025 23:35:19.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> volvi
+[16Mar2025 23:35:46.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> tienes huesos negros ?
+[16Mar2025 23:35:54.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1555.500000, 66.500000, 2528.500000]
