@@ -15,6 +15,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-03-16 17:08:26 +0000",
       "minecraft:taiga": "2025-03-16 01:05:13 +0000",
+      "minecraft:frozen_river": "2025-03-16 22:47:53 +0000",
       "minecraft:beach": "2025-03-16 01:58:58 +0000",
       "minecraft:dark_forest": "2025-03-16 00:05:23 +0000",
       "minecraft:river": "2025-03-16 01:41:03 +0000",
@@ -1561,6 +1562,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-16 17:41:57 +0000",
+      "minecraft:spider": "2025-03-16 22:50:11 +0000",
+      "minecraft:creeper": "2025-03-16 22:50:13 +0000",
       "minecraft:zombie": "2025-03-16 15:50:13 +0000"
     },
     "done": false
@@ -2207,6 +2210,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-03-16 22:48:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-03-16 21:47:54 +0000"
@@ -2237,6 +2246,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-03-16 22:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-03-16 22:04:44 +0000"
@@ -2258,6 +2273,12 @@
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-03-16 22:04:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-03-16 22:48:41 +0000"
     },
     "done": true
   },
@@ -2315,6 +2336,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-03-16 22:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-03-16 21:51:44 +0000"
@@ -2333,6 +2360,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-03-16 22:48:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-03-16 21:42:18 +0000"
@@ -2348,6 +2381,12 @@
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2025-03-16 21:58:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-16 22:48:41 +0000"
     },
     "done": true
   },
@@ -2372,6 +2411,12 @@
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-03-16 21:58:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-03-16 22:48:36 +0000"
     },
     "done": true
   },
