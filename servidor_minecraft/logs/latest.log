@@ -130,3 +130,37 @@
 [16Mar2025 22:07:35.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 877.500000, 89.500000, 1339.500000]
 [16Mar2025 22:11:58.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 616.500000, 68.500000, 1257.500000]
 [16Mar2025 22:12:11.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[16Mar2025 22:14:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[16Mar2025 22:15:26.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the time to 1000]
+[16Mar2025 22:15:42.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[16Mar2025 22:19:13.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the time to 6000]
+[16Mar2025 22:20:06.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the time to 13000]
+[16Mar2025 22:21:06.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[16Mar2025 22:21:16.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was blown up by Creeper
+[16Mar2025 22:21:35.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 743.500000, 64.500000, 974.500000]
+[16Mar2025 22:22:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[16Mar2025 22:23:43.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris moved too quickly! -9.71520970999245,0.0,-3.720505670842158
+[16Mar2025 22:24:12.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Take Aim]
+[16Mar2025 22:25:27.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[16Mar2025 22:25:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[16Mar2025 22:25:44.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[16Mar2025 22:26:11.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[16Mar2025 22:27:58.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[16Mar2025 22:28:14.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was frozen by Ice Dragon
+[16Mar2025 22:28:20.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 537.500000, 66.500000, 1247.500000]
+[16Mar2025 22:28:35.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[16Mar2025 22:28:42.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[16Mar2025 22:31:01.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[16Mar2025 22:31:17.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[16Mar2025 22:31:56.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the time to 1000]
+[16Mar2025 22:32:06.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:56333] logged in with entity id 20718 at (1626.5, 27.0, 2539.5)
+[16Mar2025 22:32:06.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
+[16Mar2025 22:32:07.875] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
+[16Mar2025 22:32:07.876] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[16Mar2025 22:32:08.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
+[16Mar2025 22:32:09.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
+[16Mar2025 22:32:09.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
+[16Mar2025 22:32:36.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 743.500000, 65.500000, 961.500000]
+[16Mar2025 22:33:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> donde estas
+[16Mar2025 22:33:19.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> mi casa
+[16Mar2025 22:34:04.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> hoal
