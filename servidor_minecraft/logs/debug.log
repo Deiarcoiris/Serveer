@@ -2759,3 +2759,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Mar2025 16:13:43.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1561.500000, 66.500000, 2528.500000]
 [16Mar2025 16:13:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Creative Mode]
 [16Mar2025 16:14:06.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[16Mar2025 16:14:12.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[16Mar2025 16:14:13.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[16Mar2025 16:14:23.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[16Mar2025 16:15:09.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
+[16Mar2025 16:15:09.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[16Mar2025 16:15:09.017] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Guts_BRSK
+[16Mar2025 16:15:09.017] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
+[16Mar2025 16:15:22.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 16:15:22.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Mar2025 16:20:22.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Mar2025 16:20:22.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
