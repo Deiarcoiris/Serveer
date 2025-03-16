@@ -242,3 +242,43 @@
 [16Mar2025 23:00:13.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 1636.500000, 11.500000, 2524.500000]
 [16Mar2025 23:00:23.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -294.500000, 101.500000, 84.500000]
 [16Mar2025 23:00:55.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 1636.500000, 11.500000, 2524.500000]
+[16Mar2025 23:05:31.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 743.500000, 65.500000, 961.500000]
+[16Mar2025 23:06:11.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -294.500000, 101.500000, 84.500000]
+[16Mar2025 23:09:43.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[16Mar2025 23:12:22.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[16Mar2025 23:12:49.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1627.500000, 27.500000, 2537.500000]
+[16Mar2025 23:12:55.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> dorme
+[16Mar2025 23:13:17.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> que tanto te teleportas
+[16Mar2025 23:13:30.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 863.500000, -14.500000, 540.500000]
+[16Mar2025 23:13:48.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1627.500000, 27.500000, 2537.500000]
+[16Mar2025 23:14:31.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 863.500000, -14.500000, 540.500000]
+[16Mar2025 23:18:25.622] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 223b0b40-1226-390e-8044-6b99f867dca5 timed out
+[16Mar2025 23:18:25.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Guts_BRSK
+[16Mar2025 23:18:25.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[16Mar2025 23:18:33.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
+[16Mar2025 23:18:33.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[16Mar2025 23:18:33.161] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
+[16Mar2025 23:19:57.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:43535] logged in with entity id 41353 at (866.8749682037735, -11.0, 538.2666814635476)
+[16Mar2025 23:19:57.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
+[16Mar2025 23:19:58.765] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
+[16Mar2025 23:19:58.766] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[16Mar2025 23:19:59.219] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
+[16Mar2025 23:20:00.221] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
+[16Mar2025 23:20:00.221] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
+[16Mar2025 23:20:27.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> PUEDO IR A HAYA ?
+[16Mar2025 23:20:37.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> para donde
+[16Mar2025 23:20:48.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> haya
+[16Mar2025 23:20:55.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> donde es aya
+[16Mar2025 23:21:26.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> adonde esas she
+[16Mar2025 23:21:37.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> estoy en mi casa
+[16Mar2025 23:22:12.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> luego que esta descargada
+[16Mar2025 23:22:14.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
+[16Mar2025 23:22:14.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[16Mar2025 23:22:14.248] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[16Mar2025 23:24:50.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 223b0b40-1226-390e-8044-6b99f867dca5 timed out
+[16Mar2025 23:24:50.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Guts_BRSK
+[16Mar2025 23:24:50.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[16Mar2025 23:24:58.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
+[16Mar2025 23:24:58.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[16Mar2025 23:24:58.241] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
+[16Mar2025 23:24:58.307] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
