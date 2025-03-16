@@ -218,3 +218,27 @@
 [16Mar2025 02:11:24.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Applied effect Strength to Guts_BRSK]
 [16Mar2025 02:11:25.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Adventure Mode]
 [16Mar2025 02:11:26.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK has made the advancement [Who You Gonna Call?]
+[16Mar2025 02:11:45.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Applied effect Strength to Guts_BRSK]
+[16Mar2025 02:11:55.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> eso es trampa
+[16Mar2025 02:12:47.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Applied effect Strength to Guts_BRSK]
+[16Mar2025 02:12:57.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[16Mar2025 02:13:02.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 48d7b04e-56d7-3aea-af42-2d7b6577daaf timed out
+[16Mar2025 02:13:02.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Deiarcoiris
+[16Mar2025 02:13:02.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
+[16Mar2025 02:13:07.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Timed out
+[16Mar2025 02:13:07.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[16Mar2025 02:13:07.626] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[16Mar2025 02:16:03.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1000.500000, 77.500000, 457.500000]
+[16Mar2025 02:16:22.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1028.500000, 64.500000, 536.500000]
+[16Mar2025 02:16:32.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1112.500000, 66.500000, 586.500000]
+[16Mar2025 02:16:39.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1123.500000, 97.500000, 631.500000]
+[16Mar2025 02:16:43.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Adventure Mode]
+[16Mar2025 02:16:46.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[16Mar2025 02:16:48.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Adventure Mode]
+[16Mar2025 02:16:49.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[16Mar2025 02:16:50.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[16Mar2025 02:16:51.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[16Mar2025 02:17:05.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[16Mar2025 02:17:07.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Disconnected
+[16Mar2025 02:17:07.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[16Mar2025 02:17:07.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
