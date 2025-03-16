@@ -17,6 +17,7 @@
       "minecraft:taiga": "2025-03-16 00:09:11 +0000",
       "minecraft:frozen_river": "2025-03-16 16:09:42 +0000",
       "minecraft:cherry_grove": "2025-03-16 02:16:58 +0000",
+      "minecraft:birch_forest": "2025-03-16 23:40:30 +0000",
       "minecraft:beach": "2025-03-16 01:47:28 +0000",
       "minecraft:dark_forest": "2025-03-16 00:09:12 +0000",
       "minecraft:lukewarm_ocean": "2025-03-16 01:52:18 +0000",
@@ -2146,6 +2147,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-03-16 23:46:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-03-16 23:46:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-03-16 23:28:26 +0000"
@@ -2158,9 +2171,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-16 23:41:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-03-16 23:46:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-03-16 23:28:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-03-16 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-03-16 23:46:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-16 23:46:28 +0000"
     },
     "done": true
   },
