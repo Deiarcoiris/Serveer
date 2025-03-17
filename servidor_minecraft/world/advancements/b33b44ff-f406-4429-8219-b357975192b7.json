@@ -1,19 +1,19 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-03-17 20:40:17 +0000"
+      "unlock_right_away": "2025-03-17 07:03:32 -0400"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2025-03-17 20:40:17 +0000"
+      "tick": "2025-03-17 07:03:32 -0400"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dark_forest": "2025-03-17 20:40:18 +0000"
+      "minecraft:dark_forest": "2025-03-17 07:03:34 -0400"
     },
     "done": false
   },
