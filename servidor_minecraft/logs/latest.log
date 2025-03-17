@@ -34,3 +34,45 @@
 [17Mar2025 00:06:22.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> esta bien
 [17Mar2025 00:06:44.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> que pasa
 [17Mar2025 00:06:55.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> XD
+[17Mar2025 00:08:28.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Creative Mode]
+[17Mar2025 00:08:31.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[17Mar2025 00:08:42.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> EL PLAN
+[17Mar2025 00:08:47.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> ERA DESAPARESER
+[17Mar2025 00:09:06.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to -270.500000, 92.500000, 86.500000]
+[17Mar2025 00:09:15.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to -270.500000, 92.500000, 86.500000]
+[17Mar2025 00:09:49.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 223b0b40-1226-390e-8044-6b99f867dca5 timed out
+[17Mar2025 00:09:49.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Guts_BRSK
+[17Mar2025 00:09:49.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[17Mar2025 00:09:53.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guts_BRSK lost connection: Timed out
+[17Mar2025 00:09:53.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK left the game
+[17Mar2025 00:09:53.839] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Guts_BRSK
+[17Mar2025 00:10:39.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[17Mar2025 00:11:10.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[17Mar2025 00:11:18.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guts_BRSK[/127.135.147.231:58645] logged in with entity id 59460 at (-271.1076109083435, 93.0, 71.34309528357913)
+[17Mar2025 00:11:18.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK joined the game
+[17Mar2025 00:11:19.049] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Guts_BRSK (18)
+[17Mar2025 00:11:19.051] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Guts_BRSK
+[17Mar2025 00:11:20.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 716.500000, 69.500000, -1.500000]
+[17Mar2025 00:11:26.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 223b0b40-1226-390e-8044-6b99f867dca5
+[17Mar2025 00:11:27.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 223b0b40-1226-390e-8044-6b99f867dca5
+[17Mar2025 00:11:27.060] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Guts_BRSK (223b0b40-1226-390e-8044-6b99f867dca5) successfully connected to voice chat
+[17Mar2025 00:11:27.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -294.500000, 101.500000, 84.500000]
+[17Mar2025 00:11:38.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to -85.500000, 25.500000, 127.500000]
+[17Mar2025 00:11:50.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Deiarcoiris> vengo ahora voy a fregar
+[17Mar2025 00:11:56.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
+[17Mar2025 00:11:56.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[17Mar2025 00:11:56.944] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[17Mar2025 00:12:12.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to -349.500000, 99.500000, -399.500000]
+[17Mar2025 00:12:21.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to -423.500000, 117.500000, -305.500000]
+[17Mar2025 00:12:29.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to -369.500000, 108.500000, -291.500000]
+[17Mar2025 00:13:12.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK fell from a high place
+[17Mar2025 00:13:12.457] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Guts_BRSK with unique ID travelersbackpack.standard_17.03.2025-00.13.12.dat
+[17Mar2025 00:13:12.457] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -351 Y: 63.0 Z: -284
+[17Mar2025 00:13:18.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to -350.500000, 63.500000, -283.500000]
+[17Mar2025 00:14:07.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to -358.500000, 102.500000, -269.500000]
+[17Mar2025 00:16:26.689] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 1480 ms
+[17Mar2025 00:16:36.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to -2162.500000, 97.000000, 1664.500000]
+[17Mar2025 00:16:36.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4438ms or 88 ticks behind
+[17Mar2025 00:16:43.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guts_BRSK fell from a high place
+[17Mar2025 00:16:50.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to -2163.500000, 65.500000, 1661.500000]
+[17Mar2025 00:17:07.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to -2227.500000, 72.500000, 1629.500000]
