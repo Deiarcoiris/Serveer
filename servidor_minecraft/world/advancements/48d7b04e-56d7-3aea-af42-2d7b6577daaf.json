@@ -16,11 +16,13 @@
       "minecraft:old_growth_pine_taiga": "2025-03-16 17:08:26 +0000",
       "minecraft:taiga": "2025-03-16 01:05:13 +0000",
       "minecraft:frozen_river": "2025-03-16 22:47:53 +0000",
+      "minecraft:savanna_plateau": "2025-03-17 01:28:41 +0000",
       "minecraft:beach": "2025-03-16 01:58:58 +0000",
       "minecraft:dark_forest": "2025-03-16 00:05:23 +0000",
       "minecraft:river": "2025-03-16 01:41:03 +0000",
       "minecraft:grove": "2025-03-16 01:50:21 +0000",
       "minecraft:swamp": "2025-03-16 21:40:56 +0000",
+      "minecraft:jagged_peaks": "2025-03-17 01:20:06 +0000",
       "minecraft:forest": "2025-03-16 01:54:14 +0000",
       "minecraft:lush_caves": "2025-03-16 01:07:43 +0000",
       "minecraft:ocean": "2025-03-16 02:03:08 +0000",
@@ -1246,6 +1248,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-17 01:29:29 +0000",
       "cooked_beef": "2025-03-16 17:06:58 +0000",
       "beef": "2025-03-16 15:52:32 +0000",
       "porkchop": "2025-03-16 01:59:00 +0000",
@@ -2628,9 +2631,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-17 00:30:02 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-03-17 00:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-17 00:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-17 00:30:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-03-17 00:35:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-17 00:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-17 00:47:11 +0000"
     },
     "done": true
   },
@@ -2646,19 +2685,25 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-03-17 00:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-03-17 00:48:23 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/enderman": {
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
-      "has_ender_pearl": "2025-03-17 00:43:03 +0000"
+      "has_basalt": "2025-03-17 00:48:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-03-17 00:48:23 +0000"
     },
@@ -2670,45 +2715,165 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/nether": {
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
-      "has_nether_wart": "2025-03-17 00:48:07 +0000"
+      "sword": "2025-03-17 01:00:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
+  "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
-      "has_gunpowder": "2025-03-17 00:30:12 +0000"
+      "bestiary": "2025-03-17 01:10:02 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/gorgon_head": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "bestiary": "2025-03-17 00:35:04 +0000"
+      "tamed_animal": "2025-03-17 01:12:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_gunpowder": "2025-03-17 00:30:12 +0000"
+      "has_hay_block": "2025-03-17 01:29:50 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "fortress": "2025-03-17 00:47:11 +0000"
+      "wheat": "2025-03-17 01:30:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
+  "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
-      "has_basalt": "2025-03-17 00:48:23 +0000"
+      "bestiary": "2025-03-17 01:35:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-03-17 00:30:02 +0000"
+      "has_item": "2025-03-17 01:35:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-03-17 01:35:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-03-17 01:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-17 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-17 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-17 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-03-17 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-03-17 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-03-17 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-03-17 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-03-17 01:46:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-03-17 01:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-03-17 01:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-17 01:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-03-17 01:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-17 01:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-17 01:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-03-17 01:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-17 01:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-03-17 01:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-03-17 01:50:00 +0000"
     },
     "done": true
   },
