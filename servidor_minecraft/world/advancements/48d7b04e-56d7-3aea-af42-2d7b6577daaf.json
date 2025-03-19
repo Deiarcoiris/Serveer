@@ -693,6 +693,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-17 21:57:54 +0000",
+      "minecraft:creeper": "2025-03-19 01:37:32 +0000",
+      "minecraft:phantom": "2025-03-19 01:17:12 +0000",
       "minecraft:zombie": "2025-03-18 21:11:04 +0000"
     },
     "done": false
@@ -2005,9 +2007,123 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-03-19 01:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-19 01:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-19 01:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-19 01:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-19 01:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-19 01:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-19 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-03-19 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-19 01:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-19 01:44:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-19 01:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-19 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-19 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-19 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-03-19 01:07:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-03-19 01:11:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-03-19 01:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-19 01:41:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-03-19 00:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-03-19 00:51:57 +0000"
     },
     "done": true
   },
@@ -2017,15 +2133,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-19 01:27:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-03-19 00:30:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-19 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-19 01:27:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-03-19 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-03-19 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-19 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-19 01:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-19 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-03-19 01:11:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-19 01:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-03-19 01:41:30 +0000"
     },
     "done": true
   },
@@ -2041,15 +2217,69 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-19 01:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-19 01:27:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-03-19 01:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-03-19 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-03-19 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-19 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-03-19 01:11:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2025-03-19 00:27:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-19 01:17:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-03-19 00:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-19 01:10:36 +0000"
     },
     "done": true
   },
