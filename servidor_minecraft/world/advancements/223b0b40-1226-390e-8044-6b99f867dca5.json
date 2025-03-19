@@ -298,7 +298,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-03-17 21:35:18 +0000",
-      "porkchop": "2025-03-17 21:33:17 +0000"
+      "porkchop": "2025-03-17 21:33:17 +0000",
+      "bread": "2025-03-19 00:00:36 +0000",
+      "cooked_chicken": "2025-03-19 00:06:41 +0000"
     },
     "done": false
   },
@@ -1933,6 +1935,30 @@
   "iceandfire:recipes/combat/armor_black_helmet": {
     "criteria": {
       "has_item": "2025-03-17 23:43:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-03-19 00:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-19 00:01:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-19 00:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-19 00:06:34 +0000"
     },
     "done": true
   },

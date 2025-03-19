@@ -2982,3 +2982,54 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Mar2025 00:03:10.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> ven para ti xd
 [19Mar2025 00:03:20.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Biembo_Skyler to Guts_BRSK]
 [19Mar2025 00:03:33.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> esa es tuya xddd
+[19Mar2025 00:04:00.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> tiene uno si xdd
+[19Mar2025 00:04:40.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> tuya esta casa
+[19Mar2025 00:05:25.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[19Mar2025 00:05:25.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[19Mar2025 00:06:27.511] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Biembo_Skyler: {disabled=false, disconnected=false, uuid=b68116ff-f09f-348a-984b-2d11fb11a6ec, name=Biembo_Skyler, group=null}
+[19Mar2025 00:06:28.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b68116ff-f09f-348a-984b-2d11fb11a6ec timed out
+[19Mar2025 00:06:28.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Biembo_Skyler
+[19Mar2025 00:06:28.183] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Biembo_Skyler
+[19Mar2025 00:06:28.183] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Biembo_Skyler
+[19Mar2025 00:06:28.183] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Biembo_Skyler
+[19Mar2025 00:06:28.183] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Biembo_Skyler
+[19Mar2025 00:06:28.184] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of b68116ff-f09f-348a-984b-2d11fb11a6ec to disconnected: {disabled=false, disconnected=true, uuid=b68116ff-f09f-348a-984b-2d11fb11a6ec, name=Biembo_Skyler, group=null}
+[19Mar2025 00:06:31.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b68116ff-f09f-348a-984b-2d11fb11a6ec
+[19Mar2025 00:06:32.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b68116ff-f09f-348a-984b-2d11fb11a6ec
+[19Mar2025 00:06:32.565] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Biembo_Skyler to connected: {disabled=false, disconnected=false, uuid=b68116ff-f09f-348a-984b-2d11fb11a6ec, name=Biembo_Skyler, group=null}
+[19Mar2025 00:06:32.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Biembo_Skyler (b68116ff-f09f-348a-984b-2d11fb11a6ec) successfully connected to voice chat
+[19Mar2025 00:06:32.755] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Biembo_Skyler: {disabled=false, disconnected=false, uuid=b68116ff-f09f-348a-984b-2d11fb11a6ec, name=Biembo_Skyler, group=null}
+[19Mar2025 00:06:53.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[19Mar2025 00:07:03.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[19Mar2025 00:07:05.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[19Mar2025 00:07:09.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> jaja xdd
+[19Mar2025 00:07:11.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[19Mar2025 00:07:19.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[19Mar2025 00:07:21.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[19Mar2025 00:07:25.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[19Mar2025 00:07:29.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[19Mar2025 00:08:17.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> come xd
+[19Mar2025 00:08:46.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> come xd
+[19Mar2025 00:09:04.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Spectator Mode]
+[19Mar2025 00:09:14.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> me vas a matar si no me muevo :v
+[19Mar2025 00:09:28.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Set own game mode to Survival Mode]
+[19Mar2025 00:09:34.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> ya equipo xd
+[19Mar2025 00:10:25.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[19Mar2025 00:10:25.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[19Mar2025 00:10:45.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1056.500000, 71.500000, 307.500000]
+[19Mar2025 00:10:48.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Biembo_Skyler to Guts_BRSK]
+[19Mar2025 00:11:23.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> asi mismo es
+[19Mar2025 00:12:21.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> esta la mia y la mas grande es tuya te la regalo
+[19Mar2025 00:12:47.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1449.500000, 64.500000, 53.500000]
+[19Mar2025 00:12:51.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Biembo_Skyler to Guts_BRSK]
+[19Mar2025 00:13:37.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biembo_Skyler lost connection: Disconnected
+[19Mar2025 00:13:37.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Biembo_Skyler left the game
+[19Mar2025 00:13:37.958] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Biembo_Skyler
+[19Mar2025 00:13:37.961] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Biembo_Skyler
+[19Mar2025 00:13:37.970] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b68116ff-f09f-348a-984b-2d11fb11a6ec does not have a secret
+[19Mar2025 00:13:37.981] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b68116ff-f09f-348a-984b-2d11fb11a6ec does not have a secret
+[19Mar2025 00:13:38.010] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b68116ff-f09f-348a-984b-2d11fb11a6ec does not have a secret
+[19Mar2025 00:13:38.021] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b68116ff-f09f-348a-984b-2d11fb11a6ec does not have a secret
+[19Mar2025 00:13:38.043] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b68116ff-f09f-348a-984b-2d11fb11a6ec does not have a secret
+[19Mar2025 00:13:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guts_BRSK> tt
+[19Mar2025 00:14:02.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Guts_BRSK: Teleported Guts_BRSK to 1535.500000, 65.500000, 81.500000]
