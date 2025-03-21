@@ -3579,3 +3579,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Mar2025 18:22:56.809] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 48d7b04e-56d7-3aea-af42-2d7b6577daaf does not have a secret
 [21Mar2025 18:22:56.817] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 48d7b04e-56d7-3aea-af42-2d7b6577daaf does not have a secret
 [21Mar2025 18:22:56.835] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 48d7b04e-56d7-3aea-af42-2d7b6577daaf does not have a secret
+[21Mar2025 18:23:20.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Mar2025 18:23:20.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Mar2025 18:23:20.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Mar2025 18:23:20.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hanselvio lost connection: Server closed
+[21Mar2025 18:23:20.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanselvio left the game
+[21Mar2025 18:23:20.637] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f61a138a-63c5-36c1-bb5e-d86a8217ce8a was unloaded
+[21Mar2025 18:23:20.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Mar2025 18:23:20.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Word]'/minecraft:overworld
+[21Mar2025 18:23:21.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Word]'/minecraft:the_end
+[21Mar2025 18:23:21.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Word]'/minecraft:the_nether
+[21Mar2025 18:23:21.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[21Mar2025 18:23:21.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[21Mar2025 18:23:21.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Mar2025 18:23:21.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Mar2025 18:23:21.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Mar2025 18:23:21.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Mar2025 18:23:21.216] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[21Mar2025 18:23:21.216] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
