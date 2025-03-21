@@ -1,152 +1,381 @@
-[19Mar2025 10:43:38.952] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[19Mar2025 10:43:38.956] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[19Mar2025 10:43:39.776] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[19Mar2025 10:43:39.854] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Serveer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[19Mar2025 10:43:40.349] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[19Mar2025 10:43:40.354] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Mar2025 10:43:40.357] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Mar2025 10:43:40.359] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Mar2025 10:43:40.725] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[19Mar2025 10:43:40.726] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[19Mar2025 10:43:44.769] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Mar2025 10:43:44.986] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[19Mar2025 10:43:44.992] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[19Mar2025 10:43:46.498] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[19Mar2025 10:43:46.500] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[19Mar2025 10:43:46.501] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[19Mar2025 10:43:46.502] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[19Mar2025 10:43:46.504] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[19Mar2025 10:43:46.505] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[19Mar2025 10:43:46.508] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[19Mar2025 10:43:46.508] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[19Mar2025 10:43:46.613] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19Mar2025 10:43:58.430] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
-[19Mar2025 10:43:58.560] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
-[19Mar2025 10:43:58.835] [modloading-worker-0/WARN] [Visuality/]: Visuality is installed on a dedicated server, skip loading...
-[19Mar2025 10:44:00.241] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[19Mar2025 10:44:00.241] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[19Mar2025 10:44:00.757] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@66af6b7b has been registered twice for the same name treechop:chop_wood.
-[19Mar2025 10:44:01.501] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[19Mar2025 10:44:01.670] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[19Mar2025 10:44:01.728] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[19Mar2025 10:44:01.748] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[19Mar2025 10:44:01.749] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[19Mar2025 10:44:01.750] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[19Mar2025 10:44:01.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[19Mar2025 10:44:02.285] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[19Mar2025 10:44:02.286] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[19Mar2025 10:44:02.287] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[19Mar2025 10:44:02.288] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[19Mar2025 10:44:02.320] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[19Mar2025 10:44:02.325] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[19Mar2025 10:44:02.328] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[19Mar2025 10:44:02.329] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[19Mar2025 10:44:02.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.28 Target: null
-[19Mar2025 10:44:02.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
-[19Mar2025 10:44:03.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
-[19Mar2025 10:44:03.063] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
-[19Mar2025 10:44:03.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.4+mod Target: null
-[19Mar2025 10:44:03.366] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[19Mar2025 10:44:03.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.33 Target: null
-[19Mar2025 10:44:03.428] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Starting version check at https://api.modrinth.com/updates/OhduvhIc/forge_updates.json
-[19Mar2025 10:44:03.476] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Found status: OUTDATED Current: 1.1.0 Target: 1.1.0+mod
-[19Mar2025 10:44:03.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Mar2025 10:44:03.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[19Mar2025 10:44:03.685] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[19Mar2025 10:44:03.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
-[19Mar2025 10:44:05.271] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Mar2025 10:44:06.798] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serveer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
-[19Mar2025 10:44:06.799] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serveer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
-[19Mar2025 10:44:12.425] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[19Mar2025 10:44:12.634] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1768 advancements
-[19Mar2025 10:44:12.662] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[19Mar2025 10:44:12.674] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[19Mar2025 10:44:14.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[19Mar2025 10:44:14.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Mar2025 10:44:14.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Mar2025 10:44:14.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Mar2025 10:44:14.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Mar2025 10:44:14.623] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Mar2025 10:44:14.750] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Mar2025 10:44:14.750] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Mar2025 10:44:14.750] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Mar2025 10:44:14.751] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Mar2025 10:44:15.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Mar2025 10:44:23.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Mar2025 10:44:34.031] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[19Mar2025 10:44:34.034] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[19Mar2025 10:44:35.995] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1653236 ms
-[19Mar2025 10:44:35.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.206s)! For help, type "help"
-[19Mar2025 10:44:36.090] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Mar2025 10:44:36.097] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[19Mar2025 10:44:36.098] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[19Mar2025 10:44:36.100] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[19Mar2025 10:44:36.116] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'centre-ok.gl.at.ply.gg'
-[19Mar2025 10:44:36.116] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1744
-[19Mar2025 10:45:18.623] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22c2a4cf[id=<null>,name=Deiarcoiris,properties={},legacy=false] (/127.147.66.255:51621) lost connection: Disconnected
-[19Mar2025 10:45:22.426] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[19Mar2025 10:45:22.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deiarcoiris[/127.147.66.255:54657] logged in with entity id 52 at (740.1720335237269, 80.37055587422657, 330.28899839883866)
-[19Mar2025 10:45:22.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris joined the game
-[19Mar2025 10:45:26.297] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deiarcoiris (18)
-[19Mar2025 10:45:26.307] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
-[19Mar2025 10:45:26.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3803ms or 76 ticks behind
-[19Mar2025 10:45:26.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
-[19Mar2025 10:45:27.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
-[19Mar2025 10:45:27.703] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf) successfully connected to voice chat
-[19Mar2025 10:45:37.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 661.500000, 81.500000, 366.500000]
-[19Mar2025 10:49:05.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[19Mar2025 10:49:36.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[19Mar2025 10:50:06.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[19Mar2025 10:50:24.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[19Mar2025 10:50:34.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[19Mar2025 10:50:48.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[19Mar2025 10:51:53.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the time to 1000]
-[19Mar2025 10:53:09.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[19Mar2025 10:55:31.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[19Mar2025 10:56:02.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[19Mar2025 10:56:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[19Mar2025 10:57:34.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Wither to 306 targets]
-[19Mar2025 10:58:44.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Poison to 403 targets]
-[19Mar2025 10:59:12.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Hunger to 433 targets]
-[19Mar2025 10:59:32.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Instant Damage to 432 targets]
-[19Mar2025 11:00:10.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Removed every effect from 475 targets]
-[19Mar2025 11:00:36.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Dragon Growth Hormone]
-[19Mar2025 11:00:49.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[19Mar2025 11:01:40.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[19Mar2025 11:02:28.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[19Mar2025 11:02:48.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -294.500000, 101.500000, 82.500000]
-[19Mar2025 11:03:26.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[19Mar2025 11:04:18.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[19Mar2025 11:04:33.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: The difficulty has been set to Peaceful]
-[19Mar2025 11:04:57.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[19Mar2025 11:05:07.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[19Mar2025 11:06:04.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[19Mar2025 11:06:16.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[19Mar2025 11:06:33.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
-[19Mar2025 11:07:16.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -294.500000, 101.500000, 82.500000]
-[19Mar2025 11:07:20.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
-[19Mar2025 11:07:20.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
-[19Mar2025 11:07:20.180] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
-[19Mar2025 11:07:29.016] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a88605d[id=<null>,name=Deiarcoiris,properties={},legacy=false] (/127.147.66.255:38253) lost connection: Disconnected
-[19Mar2025 11:07:32.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deiarcoiris[/127.147.66.255:51155] logged in with entity id 10726 at (-294.5, 101.0, 82.5)
-[19Mar2025 11:07:32.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris joined the game
-[19Mar2025 11:07:33.019] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deiarcoiris (18)
-[19Mar2025 11:07:33.022] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
-[19Mar2025 11:07:35.154] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
-[19Mar2025 11:07:36.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
-[19Mar2025 11:07:36.164] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf) successfully connected to voice chat
-[19Mar2025 11:07:37.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
-[19Mar2025 11:07:40.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
-[19Mar2025 11:07:40.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
-[19Mar2025 11:07:40.879] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
-[19Mar2025 11:07:50.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[19Mar2025 11:07:50.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[19Mar2025 11:07:50.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[19Mar2025 11:07:50.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[19Mar2025 11:07:51.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Word]'/minecraft:overworld
-[19Mar2025 11:07:51.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Word]'/minecraft:the_end
-[19Mar2025 11:07:51.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Word]'/minecraft:the_nether
-[19Mar2025 11:07:51.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19Mar2025 11:07:51.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19Mar2025 11:07:51.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19Mar2025 11:07:51.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Mar2025 18:13:15.470] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[21Mar2025 18:13:15.478] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[21Mar2025 18:13:21.832] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Mar2025 18:13:21.984] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Serveer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Mar2025 18:13:23.022] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Mar2025 18:13:23.026] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Mar2025 18:13:23.030] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Mar2025 18:13:23.033] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Serveer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Mar2025 18:13:23.613] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[21Mar2025 18:13:23.616] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[21Mar2025 18:13:28.999] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Mar2025 18:13:29.326] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[21Mar2025 18:13:29.329] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[21Mar2025 18:13:29.917] [main/INFO] [Puzzles Lib/]: Loading 37 mods:
+	- balm 7.3.10
+		\-- kuma_api 20.1.9-SNAPSHOT
+	- carryon 2.1.2.7
+	- charmofundying 6.5.0+1.20.1
+		\-- spectrelib 0.13.15+1.20.1
+	- chat_heads 0.13.13
+	- citadel 2.6.1
+	- collective 7.87
+	- corpse 1.20.1-1.0.20
+	- creativecore 2.12.31
+	- curios 5.12.1+1.20.1
+	- dynamiclights 1.8.4+mod
+	- emotecraft 2.2.7-b.build.50
+	- fastload 3.4.0
+	- forge 47.3.7
+	- hangglider 8.0.1
+	- iceandfire 2.1.13-1.20.1
+	- immediatelyfast 1.3.5+1.20.4
+	- minecraft 1.20.1
+	- mr_veinminer 1.1.0
+	- parcool 3.3.1.1
+	- playeranimator 1.0.2-rc1+1.20
+	- playerrevive 2.0.31
+	- puzzleslib 8.1.29
+		|-- mixinextras 0.4.1
+		\-- puzzlesaccessapi 20.1.1
+	- sitmod 2.0.1
+	- terralith 2.5.4
+	- tlskincape 1.32
+	- travelersbackpack 9.1.33
+	- treechop 0.19.0
+	- treeharvester 9.1
+	- visuality 2.0.2
+	- voicechat 1.20.1-2.5.28
+	- waystones 14.1.11
+	- xaerominimap 24.6.1
+	- xaeroworldmap 1.39.0
+[21Mar2025 18:13:29.991] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Mar2025 18:13:32.268] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[21Mar2025 18:13:32.273] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[21Mar2025 18:13:32.273] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[21Mar2025 18:13:32.276] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[21Mar2025 18:13:32.276] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[21Mar2025 18:13:32.277] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[21Mar2025 18:13:32.278] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[21Mar2025 18:13:32.280] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[21Mar2025 18:13:33.234] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21Mar2025 18:13:53.972] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
+[21Mar2025 18:13:54.084] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[21Mar2025 18:13:54.399] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[21Mar2025 18:13:55.114] [modloading-worker-0/WARN] [Visuality/]: Visuality is installed on a dedicated server, skip loading...
+[21Mar2025 18:13:56.755] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[21Mar2025 18:13:57.102] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Mar2025 18:13:57.103] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Mar2025 18:13:58.052] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@21890674 has been registered twice for the same name treechop:chop_wood.
+[21Mar2025 18:14:02.455] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[21Mar2025 18:14:02.714] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[21Mar2025 18:14:02.740] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[21Mar2025 18:14:02.740] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[21Mar2025 18:14:02.741] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[21Mar2025 18:14:02.747] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[21Mar2025 18:14:03.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[21Mar2025 18:14:03.623] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[21Mar2025 18:14:03.623] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[21Mar2025 18:14:03.628] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[21Mar2025 18:14:03.636] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[21Mar2025 18:14:03.673] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[21Mar2025 18:14:03.675] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[21Mar2025 18:14:03.679] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[21Mar2025 18:14:03.679] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[21Mar2025 18:14:03.819] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.28 Target: null
+[21Mar2025 18:14:03.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
+[21Mar2025 18:14:04.131] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
+[21Mar2025 18:14:04.132] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[21Mar2025 18:14:04.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[21Mar2025 18:14:04.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
+[21Mar2025 18:14:04.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.4+mod Target: null
+[21Mar2025 18:14:04.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[21Mar2025 18:14:04.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.33 Target: null
+[21Mar2025 18:14:04.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Starting version check at https://api.modrinth.com/updates/OhduvhIc/forge_updates.json
+[21Mar2025 18:14:04.666] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Found status: OUTDATED Current: 1.1.0 Target: 1.1.0+mod
+[21Mar2025 18:14:04.666] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[21Mar2025 18:14:04.691] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.29 Target: null
+[21Mar2025 18:14:04.691] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[21Mar2025 18:14:04.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[21Mar2025 18:14:04.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Mar2025 18:14:04.983] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[21Mar2025 18:14:04.984] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[21Mar2025 18:14:05.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[21Mar2025 18:14:09.163] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Mar2025 18:14:10.112] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+mixinextras (version 0.2.0-beta.6 -> 0.4.1)
+Things may not work well.
+[21Mar2025 18:14:10.299] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: hangglider:glider_wing Expected: 1255 Got: 1904
+[21Mar2025 18:14:10.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: hangglider:glider_framework Expected: 1256 Got: 1905
+[21Mar2025 18:14:10.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: hangglider:hang_glider Expected: 1257 Got: 1906
+[21Mar2025 18:14:10.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: hangglider:reinforced_hang_glider Expected: 1258 Got: 1907
+[21Mar2025 18:14:10.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: parcool:parcool_guide Expected: 1368 Got: 1908
+[21Mar2025 18:14:10.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.vault Expected: 1601 Got: 1605
+[21Mar2025 18:14:10.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.v_wall_run Expected: 1602 Got: 1606
+[21Mar2025 18:14:10.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.h_wall_run Expected: 1603 Got: 1607
+[21Mar2025 18:14:10.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.breakfall.just Expected: 1604 Got: 1608
+[21Mar2025 18:14:10.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.breakfall.roll Expected: 1605 Got: 1609
+[21Mar2025 18:14:10.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.breakfall.tap Expected: 1606 Got: 1610
+[21Mar2025 18:14:10.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.catleap Expected: 1607 Got: 1611
+[21Mar2025 18:14:10.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.charge_jump Expected: 1608 Got: 1612
+[21Mar2025 18:14:10.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.wall_jump Expected: 1609 Got: 1613
+[21Mar2025 18:14:10.326] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.cling_to_cliff.grab Expected: 1610 Got: 1614
+[21Mar2025 18:14:10.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.cling_to_cliff.jump Expected: 1611 Got: 1615
+[21Mar2025 18:14:10.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.hang_down.grab Expected: 1612 Got: 1616
+[21Mar2025 18:14:10.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:hang_down.jump Expected: 1613 Got: 1617
+[21Mar2025 18:14:10.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.slide Expected: 1614 Got: 1618
+[21Mar2025 18:14:10.339] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.dodge Expected: 1615 Got: 1619
+[21Mar2025 18:14:10.341] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.enable Expected: 1616 Got: 1620
+[21Mar2025 18:14:10.343] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: parcool:action.disable Expected: 1617 Got: 1621
+[21Mar2025 18:14:12.585] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serveer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/assets/.mcassetsroot' uses unexpected schema
+[21Mar2025 18:14:12.587] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Serveer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/data/.mcassetsroot' uses unexpected schema
+[21Mar2025 18:14:20.221] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23168!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23168!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[21Mar2025 18:14:21.492] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23168!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23168!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23168!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[21Mar2025 18:14:21.507] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[21Mar2025 18:14:21.876] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1773 advancements
+[21Mar2025 18:14:21.900] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[21Mar2025 18:14:21.914] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[21Mar2025 18:14:24.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Mar2025 18:14:24.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Mar2025 18:14:24.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Mar2025 18:14:24.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Mar2025 18:14:24.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Mar2025 18:14:25.090] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Mar2025 18:14:25.362] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Mar2025 18:14:25.363] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Mar2025 18:14:25.364] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Mar2025 18:14:25.364] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Mar2025 18:14:25.399] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Serveer/servidor_minecraft/config/hangglider-server.toml is not correct. Correcting
+[21Mar2025 18:14:25.403] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wind was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Mar2025 18:14:25.405] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wind.gust_size was corrected from null to its default, 19.0. 
+[21Mar2025 18:14:25.406] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wind.raining_multiplier was corrected from null to its default, 3.0. 
+[21Mar2025 18:14:25.407] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wind.allow_wind was corrected from null to its default, true. 
+[21Mar2025 18:14:25.408] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wind.frequency was corrected from null to its default, 0.15. 
+[21Mar2025 18:14:25.409] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wind.height_multiplier was corrected from null to its default, 1.5. 
+[21Mar2025 18:14:25.410] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wind.allow_air_resistance was corrected from null to its default, true. 
+[21Mar2025 18:14:25.410] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wind.durability_multiplier was corrected from null to its default, 0.7. 
+[21Mar2025 18:14:25.411] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wind.overall_power was corrected from null to its default, 1.0. 
+[21Mar2025 18:14:25.414] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wind.speed_multiplier was corrected from null to its default, 0.4. 
+[21Mar2025 18:14:25.415] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_hang_glider was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Mar2025 18:14:25.415] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_hang_glider.overall_wind_power was corrected from null to its default, 0.75. 
+[21Mar2025 18:14:25.415] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_hang_glider.fast_forward_movement was corrected from null to its default, 0.08. 
+[21Mar2025 18:14:25.425] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_hang_glider.normal_fall_movement was corrected from null to its default, 0.55. 
+[21Mar2025 18:14:25.426] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_hang_glider.consume_durability was corrected from null to its default, true. 
+[21Mar2025 18:14:25.428] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_hang_glider.durability_use_interval was corrected from null to its default, 200. 
+[21Mar2025 18:14:25.431] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_hang_glider.air_resistance was corrected from null to its default, 0.99. 
+[21Mar2025 18:14:25.432] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_hang_glider.normal_forward_movement was corrected from null to its default, 0.04. 
+[21Mar2025 18:14:25.433] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_hang_glider.fast_fall_movement was corrected from null to its default, 0.675. 
+[21Mar2025 18:14:25.439] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hang_glider was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Mar2025 18:14:25.442] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hang_glider.overall_wind_power was corrected from null to its default, 1.4. 
+[21Mar2025 18:14:25.446] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hang_glider.fast_forward_movement was corrected from null to its default, 0.05. 
+[21Mar2025 18:14:25.447] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hang_glider.normal_fall_movement was corrected from null to its default, 0.55. 
+[21Mar2025 18:14:25.447] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hang_glider.consume_durability was corrected from null to its default, true. 
+[21Mar2025 18:14:25.447] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hang_glider.durability_use_interval was corrected from null to its default, 200. 
+[21Mar2025 18:14:25.449] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hang_glider.air_resistance was corrected from null to its default, 0.985. 
+[21Mar2025 18:14:25.450] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hang_glider.normal_forward_movement was corrected from null to its default, 0.025. 
+[21Mar2025 18:14:25.453] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hang_glider.fast_fall_movement was corrected from null to its default, 0.675. 
+[21Mar2025 18:14:25.461] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[21Mar2025 18:14:25.462] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[21Mar2025 18:14:25.474] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[21Mar2025 18:14:25.504] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/parcool-server.toml is not correct. Correcting
+[21Mar2025 18:14:25.511] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Mar2025 18:14:25.512] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.limitation_imposed was corrected from null to its default, false. 
+[21Mar2025 18:14:25.512] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Mar2025 18:14:25.512] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_BreakfallReady was corrected from null to its default, true. 
+[21Mar2025 18:14:25.515] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_CatLeap was corrected from null to its default, true. 
+[21Mar2025 18:14:25.516] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_ChargeJump was corrected from null to its default, true. 
+[21Mar2025 18:14:25.518] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_ClimbPoles was corrected from null to its default, true. 
+[21Mar2025 18:14:25.519] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_ClimbUp was corrected from null to its default, true. 
+[21Mar2025 18:14:25.520] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_ClingToCliff was corrected from null to its default, true. 
+[21Mar2025 18:14:25.522] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_Crawl was corrected from null to its default, true. 
+[21Mar2025 18:14:25.524] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_Dive was corrected from null to its default, true. 
+[21Mar2025 18:14:25.526] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_Dodge was corrected from null to its default, true. 
+[21Mar2025 18:14:25.529] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_FastRun was corrected from null to its default, true. 
+[21Mar2025 18:14:25.532] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_FastSwim was corrected from null to its default, true. 
+[21Mar2025 18:14:25.534] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_Flipping was corrected from null to its default, true. 
+[21Mar2025 18:14:25.535] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_HangDown was corrected from null to its default, true. 
+[21Mar2025 18:14:25.537] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_HorizontalWallRun was corrected from null to its default, true. 
+[21Mar2025 18:14:25.539] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_JumpFromBar was corrected from null to its default, true. 
+[21Mar2025 18:14:25.541] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_QuickTurn was corrected from null to its default, true. 
+[21Mar2025 18:14:25.543] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_Roll was corrected from null to its default, true. 
+[21Mar2025 18:14:25.544] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_SkyDive was corrected from null to its default, true. 
+[21Mar2025 18:14:25.546] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_Slide was corrected from null to its default, true. 
+[21Mar2025 18:14:25.548] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_Tap was corrected from null to its default, true. 
+[21Mar2025 18:14:25.549] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_Vault was corrected from null to its default, true. 
+[21Mar2025 18:14:25.551] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_VerticalWallRun was corrected from null to its default, true. 
+[21Mar2025 18:14:25.553] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_WallJump was corrected from null to its default, true. 
+[21Mar2025 18:14:25.555] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Action_Permissions.permit_WallSlide was corrected from null to its default, true. 
+[21Mar2025 18:14:25.556] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Mar2025 18:14:25.557] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Mar2025 18:14:25.558] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_BreakfallReady was corrected from null to its default, 0. 
+[21Mar2025 18:14:25.562] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_CatLeap was corrected from null to its default, 200. 
+[21Mar2025 18:14:25.563] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_ChargeJump was corrected from null to its default, 100. 
+[21Mar2025 18:14:25.564] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_ClimbPoles was corrected from null to its default, 0. 
+[21Mar2025 18:14:25.567] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_ClimbUp was corrected from null to its default, 150. 
+[21Mar2025 18:14:25.571] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_ClingToCliff was corrected from null to its default, 2. 
+[21Mar2025 18:14:25.575] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_Crawl was corrected from null to its default, 0. 
+[21Mar2025 18:14:25.579] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_Dive was corrected from null to its default, 0. 
+[21Mar2025 18:14:25.582] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_Dodge was corrected from null to its default, 80. 
+[21Mar2025 18:14:25.584] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_FastRun was corrected from null to its default, 2. 
+[21Mar2025 18:14:25.587] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_FastSwim was corrected from null to its default, 3. 
+[21Mar2025 18:14:25.590] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_Flipping was corrected from null to its default, 80. 
+[21Mar2025 18:14:25.595] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_HangDown was corrected from null to its default, 3. 
+[21Mar2025 18:14:25.596] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_HorizontalWallRun was corrected from null to its default, 2. 
+[21Mar2025 18:14:25.596] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_JumpFromBar was corrected from null to its default, 100. 
+[21Mar2025 18:14:25.597] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_QuickTurn was corrected from null to its default, 0. 
+[21Mar2025 18:14:25.600] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_Roll was corrected from null to its default, 100. 
+[21Mar2025 18:14:25.602] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_SkyDive was corrected from null to its default, 0. 
+[21Mar2025 18:14:25.604] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_Slide was corrected from null to its default, 0. 
+[21Mar2025 18:14:25.605] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_Tap was corrected from null to its default, 100. 
+[21Mar2025 18:14:25.607] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_Vault was corrected from null to its default, 50. 
+[21Mar2025 18:14:25.608] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_VerticalWallRun was corrected from null to its default, 150. 
+[21Mar2025 18:14:25.610] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_WallJump was corrected from null to its default, 120. 
+[21Mar2025 18:14:25.611] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.Least_Consumption.stamina_consumption_of_WallSlide was corrected from null to its default, 8. 
+[21Mar2025 18:14:25.612] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.allow_infinite_stamina was corrected from null to its default, true. 
+[21Mar2025 18:14:25.612] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.max_stamina_limit was corrected from null to its default, 2147483647. 
+[21Mar2025 18:14:25.612] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Stamina.max_stamina_recovery_limit was corrected from null to its default, 2147483647. 
+[21Mar2025 18:14:25.612] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Control was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Mar2025 18:14:25.613] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Control.allow_disabling_wall_jump_cooldown was corrected from null to its default, true. 
+[21Mar2025 18:14:25.615] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Control.least_successive_dodge_cool_time was corrected from null to its default, 0. 
+[21Mar2025 18:14:25.616] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Control.least_dodge_cool_time was corrected from null to its default, 11. 
+[21Mar2025 18:14:25.617] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Control.max_successive_dodge_count was corrected from null to its default, 2147483647. 
+[21Mar2025 18:14:25.618] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Modifier was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Mar2025 18:14:25.620] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Modifier.wall-run_continuable_tick was corrected from null to its default, 40. 
+[21Mar2025 18:14:25.621] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Modifier.sliding_continuable_tick was corrected from null to its default, 30. 
+[21Mar2025 18:14:25.624] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Modifier.max_fast-run_modifier was corrected from null to its default, 2.0. 
+[21Mar2025 18:14:25.625] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Modifier.max_fast-swim_modifier was corrected from null to its default, 2.0. 
+[21Mar2025 18:14:25.628] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Limitations.Modifier.max_dodge-speed_modifier was corrected from null to its default, 1.0. 
+[21Mar2025 18:14:26.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Mar2025 18:14:37.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Mar2025 18:14:46.563] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Mar2025 18:14:48.370] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Mar2025 18:14:50.738] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Mar2025 18:14:52.429] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Mar2025 18:14:53.512] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Mar2025 18:14:55.014] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Mar2025 18:14:55.538] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 309479 ms
+[21Mar2025 18:14:55.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (30.155s)! For help, type "help"
+[21Mar2025 18:14:55.665] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Mar2025 18:14:55.683] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[21Mar2025 18:14:55.684] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[21Mar2025 18:14:55.688] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[21Mar2025 18:14:55.728] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'centre-ok.gl.at.ply.gg'
+[21Mar2025 18:14:55.730] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1744
+[21Mar2025 18:15:00.840] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[21Mar2025 18:15:01.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deiarcoiris[/127.190.90.38:58533] logged in with entity id 22 at (-294.5, 101.0, 82.5)
+[21Mar2025 18:15:01.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris joined the game
+[21Mar2025 18:15:04.632] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deiarcoiris (18)
+[21Mar2025 18:15:04.650] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
+[21Mar2025 18:15:04.656] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 48d7b04e-56d7-3aea-af42-2d7b6577daaf was loaded
+[21Mar2025 18:15:04.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3838ms or 76 ticks behind
+[21Mar2025 18:15:06.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[21Mar2025 18:15:08.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[21Mar2025 18:15:08.156] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf) successfully connected to voice chat
+[21Mar2025 18:15:23.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3857ms or 77 ticks behind
+[21Mar2025 18:20:39.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hanselvio[/127.190.90.38:58009] logged in with entity id 872 at (8.5, 93.0, -8.5)
+[21Mar2025 18:20:39.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanselvio joined the game
+[21Mar2025 18:20:40.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanselvio has made the advancement [Ice and Fire]
+[21Mar2025 18:20:40.638] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hanselvio (18)
+[21Mar2025 18:20:40.639] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hanselvio
+[21Mar2025 18:20:40.641] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f61a138a-63c5-36c1-bb5e-d86a8217ce8a was loaded
+[21Mar2025 18:20:42.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f61a138a-63c5-36c1-bb5e-d86a8217ce8a
+[21Mar2025 18:20:43.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f61a138a-63c5-36c1-bb5e-d86a8217ce8a
+[21Mar2025 18:20:43.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Hanselvio (f61a138a-63c5-36c1-bb5e-d86a8217ce8a) successfully connected to voice chat
+[21Mar2025 18:21:02.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to Hanselvio]
+[21Mar2025 18:21:09.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=77, z=-14}
+[21Mar2025 18:21:11.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=77, z=-14}
+[21Mar2025 18:21:11.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=78, z=-14}
+[21Mar2025 18:21:11.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=78, z=-15}
+[21Mar2025 18:21:11.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=78, z=-15}
+[21Mar2025 18:21:11.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=77, z=-15}
+[21Mar2025 18:21:12.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=77, z=-15}
+[21Mar2025 18:21:12.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=77, z=-15}
+[21Mar2025 18:21:46.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hanselvio has made the advancement [Getting an Upgrade]
+[21Mar2025 18:22:21.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: The difficulty has been set to Peaceful]
+[21Mar2025 18:22:54.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
+[21Mar2025 18:22:54.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[21Mar2025 18:22:54.984] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 48d7b04e-56d7-3aea-af42-2d7b6577daaf was unloaded
+[21Mar2025 18:22:54.987] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
