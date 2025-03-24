@@ -2494,6 +2494,18 @@
     },
     "done": true
   },
+  "hangglider:recipes/tools/glider_framework": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-21 18:15:01 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-03-21 18:15:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-03-21 18:16:52 +0000"
@@ -2524,21 +2536,33 @@
     },
     "done": true
   },
-  "hangglider:recipes/tools/glider_framework": {
-    "criteria": {
-      "has_iron_ingot": "2025-03-21 18:15:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-03-21 18:16:52 +0000"
     },
     "done": true
   },
-  "parcool:grant_parcool_guide": {
+  "travelersbackpack:recipes/misc/fox": {
     "criteria": {
-      "tick": "2025-03-21 18:15:02 +0000"
+      "has_sweet_berries": "2025-03-24 00:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-24 00:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-24 00:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-24 00:35:45 +0000"
     },
     "done": true
   },
