@@ -259,3 +259,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [26Mar2025 20:15:35.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
 [26Mar2025 20:16:24.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
 [26Mar2025 20:17:07.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[26Mar2025 20:18:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[26Mar2025 20:18:30.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[26Mar2025 20:18:47.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[26Mar2025 20:18:53.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[26Mar2025 20:21:24.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[26Mar2025 20:22:19.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Poison to 179 targets]
+[26Mar2025 20:22:29.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Instant Damage to 173 targets]
+[26Mar2025 20:22:42.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Wither to 189 targets]
+[26Mar2025 20:22:54.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Removed every effect from Deiarcoiris]
+[26Mar2025 20:22:59.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Removed every effect from 188 targets]
+[26Mar2025 20:23:05.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[26Mar2025 20:25:19.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[26Mar2025 20:25:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[26Mar2025 20:26:08.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[26Mar2025 20:26:47.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[26Mar2025 20:26:55.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[26Mar2025 20:27:24.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 615.500000, 66.500000, 1088.500000]
+[26Mar2025 20:27:31.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[26Mar2025 20:27:40.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[26Mar2025 20:30:47.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 531.500000, 66.500000, 1088.500000]
+[26Mar2025 20:31:14.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[26Mar2025 20:31:15.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
+[26Mar2025 20:31:15.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[26Mar2025 20:31:15.862] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 48d7b04e-56d7-3aea-af42-2d7b6577daaf was unloaded
+[26Mar2025 20:31:15.865] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[26Mar2025 20:34:18.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Deiarcoiris[/127.147.66.255:43983] logged in with entity id 12461 at (540.6362154914247, 66.0, 1082.6327594169863)
+[26Mar2025 20:34:18.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris joined the game
+[26Mar2025 20:34:18.619] [Server thread/INFO] [Jade/]: Syncing config to Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf)
+[26Mar2025 20:34:20.080] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Deiarcoiris (18)
+[26Mar2025 20:34:20.083] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
+[26Mar2025 20:34:20.083] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 48d7b04e-56d7-3aea-af42-2d7b6577daaf was loaded
+[26Mar2025 20:34:21.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[26Mar2025 20:34:22.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[26Mar2025 20:34:22.347] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf) successfully connected to voice chat
+[26Mar2025 20:34:36.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 658.500000, 64.500000, 672.500000]
+[26Mar2025 20:35:30.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 1221.500000, 78.500000, 204.500000]
+[26Mar2025 20:35:37.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -294.500000, 101.500000, 82.500000]
+[26Mar2025 20:38:24.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
+[26Mar2025 20:38:24.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[26Mar2025 20:38:24.309] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 48d7b04e-56d7-3aea-af42-2d7b6577daaf was unloaded
+[26Mar2025 20:38:24.309] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[26Mar2025 20:38:33.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Mar2025 20:38:33.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Mar2025 20:38:33.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Mar2025 20:38:33.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Mar2025 20:38:33.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Word]'/minecraft:overworld
+[26Mar2025 20:38:33.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Word]'/minecraft:the_nether
+[26Mar2025 20:38:33.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Word]'/minecraft:the_end
+[26Mar2025 20:38:33.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Mar2025 20:38:33.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Mar2025 20:38:33.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Mar2025 20:38:33.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
