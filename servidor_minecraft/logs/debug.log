@@ -3497,3 +3497,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [04Apr2025 17:10:15.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
 [04Apr2025 17:10:48.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
 [04Apr2025 17:11:24.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Night Vision to Deiarcoiris]
+[04Apr2025 17:13:38.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[04Apr2025 17:13:38.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[04Apr2025 17:14:25.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 1 [Iron Pickaxe] to Deiarcoiris]
+[04Apr2025 17:14:39.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 1 [Diamond Pickaxe] to Deiarcoiris]
+[04Apr2025 17:15:27.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied enchantment Silk Touch to Deiarcoiris's item]
+[04Apr2025 17:15:41.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[04Apr2025 17:15:45.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[04Apr2025 17:15:46.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[04Apr2025 17:17:58.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[04Apr2025 17:18:22.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[04Apr2025 17:18:38.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[04Apr2025 17:18:38.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[04Apr2025 17:19:10.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 575.500000, 79.977363, 545.500000]
+[04Apr2025 17:20:56.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[04Apr2025 17:21:25.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[04Apr2025 17:21:45.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris moved too quickly! 4.303813781270492,0.0,-9.861956669803362
+[04Apr2025 17:22:06.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 869.500000, 90.358418, 880.500000]
+[04Apr2025 17:22:17.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[04Apr2025 17:22:44.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
