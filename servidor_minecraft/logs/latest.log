@@ -273,3 +273,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [04Apr2025 16:26:56.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
 [04Apr2025 16:33:08.280] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/185, l='ServerLevel[Word]', x=-1269.77, y=94.50, z=-1369.40] died, message: 'Unemployed was pricked to death'
 [04Apr2025 16:41:41.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Sweet Dreams]
+[04Apr2025 16:46:10.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[04Apr2025 16:46:35.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Best Friends Forever]
+[04Apr2025 16:46:59.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[04Apr2025 16:49:30.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -294.500000, 101.500000, 84.500000]
+[04Apr2025 16:49:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[04Apr2025 16:50:05.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
