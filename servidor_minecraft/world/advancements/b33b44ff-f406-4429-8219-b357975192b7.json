@@ -1,21 +1,27 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-03-17 07:03:32 -0400"
+      "unlock_right_away": "2025-04-03 19:05:50 -0400"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2025-03-17 07:03:32 -0400"
+      "tick": "2025-04-03 19:05:50 -0400"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dark_forest": "2025-03-17 07:03:34 -0400"
+      "minecraft:dark_forest": "2025-04-03 19:06:01 -0400"
     },
     "done": false
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-04-03 19:05:50 -0400"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
