@@ -23,9 +23,11 @@
       "minecraft:dark_forest": "2025-04-04 00:00:55 +0000",
       "minecraft:river": "2025-04-04 01:13:15 +0000",
       "minecraft:grove": "2025-04-04 01:08:57 +0000",
+      "minecraft:forest": "2025-04-04 17:08:19 +0000",
       "minecraft:lush_caves": "2025-04-04 01:13:32 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-04 01:00:28 +0000",
-      "minecraft:deep_dark": "2025-04-04 01:51:22 +0000"
+      "minecraft:deep_dark": "2025-04-04 01:51:22 +0000",
+      "minecraft:plains": "2025-04-04 17:07:00 +0000"
     },
     "done": false
   },
@@ -2129,6 +2131,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-04-04 17:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-04 16:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-04-04 16:15:06 +0000"
@@ -2141,6 +2155,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-04-04 17:01:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-04-04 16:15:06 +0000"
@@ -2150,6 +2170,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-04-04 16:15:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-04 17:08:04 +0000"
     },
     "done": true
   },
@@ -2168,6 +2194,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-04-04 16:24:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-04-04 17:04:52 +0000"
     },
     "done": true
   },
@@ -2195,9 +2227,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-04-04 17:08:04 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-04-04 16:46:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-04-04 17:04:52 +0000"
     },
     "done": true
   },
@@ -2213,9 +2257,33 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-04-04 17:04:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-04-04 17:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2025-04-04 16:46:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-04-04 17:04:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-04-04 17:04:52 +0000"
     },
     "done": true
   },
@@ -2273,9 +2341,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-04-04 17:04:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-04-04 17:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-04 16:15:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-04-04 17:02:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-04-04 17:03:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-04-04 17:04:52 +0000"
     },
     "done": true
   },
