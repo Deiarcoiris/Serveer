@@ -3659,3 +3659,26 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 101 out of bounds for leng
 [05Apr2025 21:07:18.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
 [05Apr2025 21:08:30.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
 [05Apr2025 21:09:04.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[05Apr2025 21:09:26.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[05Apr2025 21:09:45.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[05Apr2025 21:09:45.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[05Apr2025 21:09:55.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[05Apr2025 21:10:20.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the weather to clear]
+[05Apr2025 21:10:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 548.500000, 92.500000, 729.500000]
+[05Apr2025 21:10:48.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[05Apr2025 21:11:11.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[05Apr2025 21:11:59.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[05Apr2025 21:12:50.436] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexsmobs:spawns_white_mantis_shrimp (minecraft:mangrove_swamp) took 1205 ms
+[05Apr2025 21:12:56.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 2172.500000, 70.000000, 749.500000]
+[05Apr2025 21:12:56.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3159ms or 63 ticks behind
+[05Apr2025 21:12:59.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[05Apr2025 21:13:04.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[05Apr2025 21:13:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: The difficulty has been set to Easy]
+[05Apr2025 21:14:48.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[05Apr2025 21:14:48.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[05Apr2025 21:15:15.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [Gone Bananas!]
+[05Apr2025 21:15:29.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: The difficulty has been set to Peaceful]
+[05Apr2025 21:15:52.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has reached the goal [Flowers of the Savanna]
+[05Apr2025 21:17:28.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[05Apr2025 21:17:48.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[05Apr2025 21:17:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [We do a little trolling...]
