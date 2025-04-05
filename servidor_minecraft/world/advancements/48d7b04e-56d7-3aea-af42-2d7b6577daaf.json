@@ -2949,5 +2949,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-04-05 20:54:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
