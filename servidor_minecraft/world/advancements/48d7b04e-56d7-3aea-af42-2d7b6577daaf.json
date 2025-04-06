@@ -25,6 +25,7 @@
       "minecraft:dark_forest": "2025-04-04 00:00:55 +0000",
       "minecraft:mangrove_swamp": "2025-04-05 21:12:57 +0000",
       "minecraft:river": "2025-04-04 01:13:15 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-06 15:26:23 +0000",
       "minecraft:grove": "2025-04-04 01:08:57 +0000",
       "minecraft:swamp": "2025-04-05 21:10:12 +0000",
       "minecraft:forest": "2025-04-04 17:08:19 +0000",
@@ -2932,6 +2933,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-06 15:25:10 +0000",
+      "minecraft:spider": "2025-04-06 15:23:47 +0000",
+      "minecraft:enderman": "2025-04-06 15:25:22 +0000",
       "minecraft:zombie": "2025-04-05 20:50:08 +0000"
     },
     "done": false
@@ -3374,6 +3378,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-04-06 15:29:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
       "has_item": "2025-04-06 15:18:03 +0000"
@@ -3392,9 +3402,45 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-04-06 15:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-06 15:28:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-04-06 15:29:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-04-06 14:56:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-06 15:29:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-04-06 15:27:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-04-06 15:29:58 +0000"
     },
     "done": true
   },
@@ -3413,6 +3459,12 @@
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-04-06 15:09:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-04-06 15:29:58 +0000"
     },
     "done": true
   },
