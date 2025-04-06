@@ -3486,6 +3486,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-04-06 20:25:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-04-06 20:05:33 +0000"
@@ -3516,6 +3522,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-04-06 20:25:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-04-06 20:12:00 +0000"
@@ -3534,9 +3546,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-04-06 20:25:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_helmet": {
     "criteria": {
       "has_item": "2025-04-06 20:03:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-04-06 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-06 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-06 20:25:57 +0000"
     },
     "done": true
   },
