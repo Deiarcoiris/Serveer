@@ -492,3 +492,24 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 95 out of bounds for lengt
 [06Apr2025 15:53:12.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
 [06Apr2025 15:53:18.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 739.500000, 3.500000, 571.500000]
 [06Apr2025 15:53:28.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[06Apr2025 15:55:40.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[06Apr2025 15:55:48.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[06Apr2025 15:56:06.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 1 [Stone Pickaxe] to Deiarcoiris]
+[06Apr2025 15:56:19.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied enchantment Efficiency II to Deiarcoiris's item]
+[06Apr2025 15:57:13.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied enchantment Fortune II to Deiarcoiris's item]
+[06Apr2025 16:03:08.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -294.500000, 101.500000, 84.500000]
+[06Apr2025 16:03:13.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Disconnected
+[06Apr2025 16:03:13.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[06Apr2025 16:03:13.379] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 48d7b04e-56d7-3aea-af42-2d7b6577daaf was unloaded
+[06Apr2025 16:03:13.382] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[06Apr2025 16:03:20.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Apr2025 16:03:20.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Apr2025 16:03:20.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Apr2025 16:03:20.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Apr2025 16:03:21.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Word]'/minecraft:overworld
+[06Apr2025 16:03:22.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Word]'/minecraft:the_nether
+[06Apr2025 16:03:22.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Word]'/minecraft:the_end
+[06Apr2025 16:03:22.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Apr2025 16:03:22.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Apr2025 16:03:22.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Apr2025 16:03:22.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
