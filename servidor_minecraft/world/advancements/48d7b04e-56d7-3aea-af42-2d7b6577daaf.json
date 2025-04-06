@@ -3516,6 +3516,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-06 20:12:00 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_shell": {
     "criteria": {
       "soul_heart": "2025-04-06 19:53:28 +0000"
