@@ -292,3 +292,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [07Apr2025 21:41:30.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
 [07Apr2025 21:41:49.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -294.500000, 101.500000, 84.500000]
 [07Apr2025 21:42:14.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 890.500000, 67.500000, 393.500000]
+[07Apr2025 21:51:06.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[07Apr2025 21:51:30.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[07Apr2025 21:51:46.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[07Apr2025 21:51:54.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[07Apr2025 21:52:26.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
