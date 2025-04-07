@@ -3486,51 +3486,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_leggings": {
-    "criteria": {
-      "has_item": "2025-04-06 20:25:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2025-04-06 20:05:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_boots": {
-    "criteria": {
-      "has_item": "2025-04-06 20:03:22 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed": "2025-04-06 19:53:21 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana_slug": {
-    "criteria": {
-      "killed": "2025-04-06 19:56:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_leggings": {
-    "criteria": {
-      "has_item": "2025-04-06 20:03:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_boots": {
-    "criteria": {
-      "has_item": "2025-04-06 20:25:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2025-04-06 20:12:00 +0000"
     },
     "done": true
   },
@@ -3540,21 +3498,69 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-04-06 19:56:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-04-06 20:03:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-04-06 20:03:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_chestplate": {
     "criteria": {
       "has_item": "2025-04-06 20:03:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_helmet": {
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-04-06 20:03:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-04-06 20:03:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-06 20:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-06 20:12:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2025-04-06 20:25:57 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_blue_helmet": {
+  "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
-      "has_item": "2025-04-06 20:03:22 +0000"
+      "has_item": "2025-04-06 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-04-06 20:25:57 +0000"
     },
     "done": true
   },
@@ -3576,9 +3582,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_dragonscales_blue": "2025-04-06 20:03:22 +0000"
+      "has_allium": "2025-04-07 21:26:59 +0000"
     },
     "done": true
   },
