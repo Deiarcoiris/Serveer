@@ -300,3 +300,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [08Apr2025 00:59:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Killed 47 entities]
 [08Apr2025 00:59:08.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was killed
 [08Apr2025 00:59:13.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 916.500000, 67.500000, 380.500000]
+[08Apr2025 01:18:59.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported 432 entities to Deiarcoiris]
+[08Apr2025 01:19:39.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Strength to Deiarcoiris]
+[08Apr2025 01:22:06.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 930.500000, 70.500000, 326.500000]
+[08Apr2025 01:22:48.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 928.500000, 70.500000, 331.500000]
