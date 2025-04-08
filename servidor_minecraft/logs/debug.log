@@ -3576,3 +3576,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [08Apr2025 01:33:47.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
 [08Apr2025 01:38:47.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
 [08Apr2025 01:38:47.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[08Apr2025 01:43:47.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[08Apr2025 01:43:47.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[08Apr2025 01:48:47.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[08Apr2025 01:48:47.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
