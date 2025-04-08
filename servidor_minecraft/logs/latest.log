@@ -288,3 +288,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [08Apr2025 00:44:49.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 1911 block(s)]
 [08Apr2025 00:45:07.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 2624 block(s)]
 [08Apr2025 00:46:31.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[08Apr2025 00:54:46.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported 294 entities to Deiarcoiris]
+[08Apr2025 00:55:25.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Strength to Deiarcoiris]
+[08Apr2025 00:56:00.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Killed 157 entities]
+[08Apr2025 00:56:08.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was killed
+[08Apr2025 00:56:08.449] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Deiarcoiris with unique ID travelersbackpack.standard_08.04.2025-00.56.08.dat
+[08Apr2025 00:56:18.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 904.500000, 67.500000, 388.500000]
+[08Apr2025 00:57:40.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported 212 entities to Deiarcoiris]
+[08Apr2025 00:58:47.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported 44 entities to Deiarcoiris]
+[08Apr2025 00:59:00.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported 47 entities to Deiarcoiris]
+[08Apr2025 00:59:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Killed 47 entities]
+[08Apr2025 00:59:08.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris was killed
+[08Apr2025 00:59:13.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 916.500000, 67.500000, 380.500000]
