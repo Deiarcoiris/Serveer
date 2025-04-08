@@ -4872,3 +4872,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [08Apr2025 19:22:24.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 6400 [Dirt] to Deiarcoiris]
 [08Apr2025 19:22:26.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Gave 6400 [Dirt] to Deiarcoiris]
 [08Apr2025 19:25:09.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[08Apr2025 19:26:27.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[08Apr2025 19:26:27.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[08Apr2025 19:26:32.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 1902 block(s)]
+[08Apr2025 19:27:33.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 1094 block(s)]
+[08Apr2025 19:27:50.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 355 block(s)]
+[08Apr2025 19:28:57.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[08Apr2025 19:29:16.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[08Apr2025 19:29:56.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 1344 block(s)]
+[08Apr2025 19:30:11.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 1292 block(s)]
+[08Apr2025 19:30:19.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 1344 block(s)]
+[08Apr2025 19:30:47.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris moved too quickly! -2.3351172427355777,0.0,10.437959449461346
+[08Apr2025 19:31:27.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[08Apr2025 19:31:27.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[08Apr2025 19:32:04.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 17196 block(s)]
+[08Apr2025 19:32:56.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 21801 block(s)]
+[08Apr2025 19:33:17.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 21801 block(s)]
+[08Apr2025 19:33:59.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 4388 block(s)]
+[08Apr2025 19:35:24.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 87 block(s)]
+[08Apr2025 19:35:56.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 5 block(s)]
