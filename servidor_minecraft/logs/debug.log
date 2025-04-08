@@ -3509,3 +3509,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [08Apr2025 00:40:28.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
 [08Apr2025 00:41:03.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
 [08Apr2025 00:42:25.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 6723 block(s)]
+[08Apr2025 00:42:51.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 5208 block(s)]
+[08Apr2025 00:43:09.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 6804 block(s)]
+[08Apr2025 00:43:37.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 1697 block(s)]
+[08Apr2025 00:43:47.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[08Apr2025 00:43:47.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[08Apr2025 00:43:59.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 990 block(s)]
+[08Apr2025 00:44:17.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 3402 block(s)]
+[08Apr2025 00:44:33.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 3402 block(s)]
+[08Apr2025 00:44:39.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 3402 block(s)]
+[08Apr2025 00:44:49.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 1911 block(s)]
+[08Apr2025 00:45:07.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 2624 block(s)]
+[08Apr2025 00:46:31.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[08Apr2025 00:48:47.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[08Apr2025 00:48:47.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[08Apr2025 00:50:18.608] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Apr2025 00:50:26.910] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
