@@ -1316,3 +1316,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [08Apr2025 18:43:01.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=920, y=68, z=351} BlockPos{x=919, y=66, z=352}
 [08Apr2025 18:43:01.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=920, y=68, z=351} BlockPos{x=919, y=66, z=352}
 [08Apr2025 18:43:01.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=920, y=68, z=351} BlockPos{x=919, y=66, z=352}
+[08Apr2025 18:58:53.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied enchantment Efficiency V to Deiarcoiris's item]
+[08Apr2025 18:59:01.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied enchantment Efficiency V to Deiarcoiris's item]
+[08Apr2025 18:59:27.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied enchantment Unbreaking III to Deiarcoiris's item]
+[08Apr2025 18:59:38.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[08Apr2025 19:00:04.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[08Apr2025 19:00:31.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[08Apr2025 19:00:51.850] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:snowy_plains took 1338 ms
+[08Apr2025 19:01:05.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -774.500000, 101.000000, -1838.500000]
+[08Apr2025 19:01:05.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10041ms or 200 ticks behind
+[08Apr2025 19:03:56.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set the time to 1000]
+[08Apr2025 19:04:03.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[08Apr2025 19:04:14.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to -294.500000, 101.500000, 84.500000]
+[08Apr2025 19:04:56.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris has made the advancement [The Parrots and the Bats]

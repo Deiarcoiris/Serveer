@@ -26,6 +26,7 @@
       "minecraft:mangrove_swamp": "2025-04-05 21:12:57 +0000",
       "minecraft:river": "2025-04-04 01:13:15 +0000",
       "minecraft:lukewarm_ocean": "2025-04-06 15:26:23 +0000",
+      "minecraft:snowy_plains": "2025-04-08 19:01:06 +0000",
       "minecraft:grove": "2025-04-04 01:08:57 +0000",
       "minecraft:swamp": "2025-04-05 21:10:12 +0000",
       "minecraft:forest": "2025-04-04 17:08:19 +0000",
@@ -3774,9 +3775,57 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 18:48:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 18:48:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-04-08 18:37:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-04-08 18:48:21 +0000"
     },
     "done": true
   },
