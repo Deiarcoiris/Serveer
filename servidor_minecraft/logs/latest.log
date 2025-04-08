@@ -304,3 +304,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [08Apr2025 01:19:39.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied effect Strength to Deiarcoiris]
 [08Apr2025 01:22:06.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 930.500000, 70.500000, 326.500000]
 [08Apr2025 01:22:48.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Teleported Deiarcoiris to 928.500000, 70.500000, 331.500000]
+[08Apr2025 01:23:20.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Applied enchantment Efficiency V to Deiarcoiris's item]
+[08Apr2025 01:25:16.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Successfully filled 3853 block(s)]
+[08Apr2025 01:25:40.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 48d7b04e-56d7-3aea-af42-2d7b6577daaf timed out
+[08Apr2025 01:25:40.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Deiarcoiris
+[08Apr2025 01:25:40.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
+[08Apr2025 01:25:46.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deiarcoiris lost connection: Timed out
+[08Apr2025 01:25:46.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Deiarcoiris left the game
+[08Apr2025 01:25:46.626] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 48d7b04e-56d7-3aea-af42-2d7b6577daaf was unloaded
+[08Apr2025 01:25:46.629] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Deiarcoiris
+[08Apr2025 01:25:46.719] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
