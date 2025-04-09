@@ -3759,3 +3759,45 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [08Apr2025 23:49:01.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
 [08Apr2025 23:54:01.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
 [08Apr2025 23:54:01.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[08Apr2025 23:58:16.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Creative Mode]
+[08Apr2025 23:58:51.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[08Apr2025 23:59:01.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[08Apr2025 23:59:01.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[08Apr2025 23:59:42.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[08Apr2025 23:59:44.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[08Apr2025 23:59:47.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[08Apr2025 23:59:51.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[09Apr2025 00:00:02.695] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Deiarcoiris: {disabled=false, disconnected=false, uuid=48d7b04e-56d7-3aea-af42-2d7b6577daaf, name=Deiarcoiris, group=null}
+[09Apr2025 00:00:03.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 48d7b04e-56d7-3aea-af42-2d7b6577daaf timed out
+[09Apr2025 00:00:03.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Deiarcoiris
+[09Apr2025 00:00:03.086] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Deiarcoiris
+[09Apr2025 00:00:03.086] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Deiarcoiris
+[09Apr2025 00:00:03.086] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Deiarcoiris
+[09Apr2025 00:00:03.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
+[09Apr2025 00:00:03.088] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 48d7b04e-56d7-3aea-af42-2d7b6577daaf to disconnected: {disabled=false, disconnected=true, uuid=48d7b04e-56d7-3aea-af42-2d7b6577daaf, name=Deiarcoiris, group=null}
+[09Apr2025 00:00:13.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[09Apr2025 00:00:14.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[09Apr2025 00:00:14.453] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Deiarcoiris to connected: {disabled=false, disconnected=false, uuid=48d7b04e-56d7-3aea-af42-2d7b6577daaf, name=Deiarcoiris, group=null}
+[09Apr2025 00:00:14.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf) successfully connected to voice chat
+[09Apr2025 00:00:14.636] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Deiarcoiris: {disabled=false, disconnected=false, uuid=48d7b04e-56d7-3aea-af42-2d7b6577daaf, name=Deiarcoiris, group=null}
+[09Apr2025 00:04:01.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Word
+[09Apr2025 00:04:01.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Word
+[09Apr2025 00:04:01.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[09Apr2025 00:04:30.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[09Apr2025 00:05:09.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 48d7b04e-56d7-3aea-af42-2d7b6577daaf timed out
+[09Apr2025 00:05:09.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Deiarcoiris
+[09Apr2025 00:05:09.860] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Deiarcoiris
+[09Apr2025 00:05:09.860] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Deiarcoiris
+[09Apr2025 00:05:09.861] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Deiarcoiris
+[09Apr2025 00:05:09.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Deiarcoiris
+[09Apr2025 00:05:09.861] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 48d7b04e-56d7-3aea-af42-2d7b6577daaf to disconnected: {disabled=false, disconnected=true, uuid=48d7b04e-56d7-3aea-af42-2d7b6577daaf, name=Deiarcoiris, group=null}
+[09Apr2025 00:05:25.214] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[09Apr2025 00:05:25.316] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Deiarcoiris: {disabled=false, disconnected=true, uuid=48d7b04e-56d7-3aea-af42-2d7b6577daaf, name=Deiarcoiris, group=null}
+[09Apr2025 00:05:25.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[09Apr2025 00:05:26.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 48d7b04e-56d7-3aea-af42-2d7b6577daaf
+[09Apr2025 00:05:26.213] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Deiarcoiris to connected: {disabled=false, disconnected=false, uuid=48d7b04e-56d7-3aea-af42-2d7b6577daaf, name=Deiarcoiris, group=null}
+[09Apr2025 00:05:26.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Deiarcoiris (48d7b04e-56d7-3aea-af42-2d7b6577daaf) successfully connected to voice chat
+[09Apr2025 00:05:26.404] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Deiarcoiris: {disabled=false, disconnected=false, uuid=48d7b04e-56d7-3aea-af42-2d7b6577daaf, name=Deiarcoiris, group=null}
+[09Apr2025 00:05:41.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
+[09Apr2025 00:05:47.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Spectator Mode]
+[09Apr2025 00:05:50.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Deiarcoiris: Set own game mode to Survival Mode]
